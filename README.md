@@ -9,3 +9,6 @@ I'm working on crediting the original artists and content creators as I build th
 
 ## API
 _(To Be Determined...)_
+
+## Acknowledgements
+This application is named after the [Hellholt](https://awoiaf.westeros.org/index.php/Hellholt), a castle in _A Song of Ice and Fire_.  In my home network, I name hosts after noble houses from _ASoIaF_ and major projects after castles.  This saves me from having to spend too much time trying to name things.
