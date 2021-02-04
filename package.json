@@ -1,0 +1,27 @@
+{
+  "name": "hellholt",
+  "version": "0.0.1",
+  "description": "An API for retrieving data and other resources about things in A Song of Ice and Fire.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha --recursive tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndouglas/hellholt.git"
+  },
+  "author": "Nathan Douglas <github@tenesm.us>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/ndouglas/hellholt/issues"
+  },
+  "homepage": "https://github.com/ndouglas/hellholt#readme"
+}
