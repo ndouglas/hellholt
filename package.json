@@ -4,15 +4,28 @@
   "description": "An API for retrieving data and other resources about things in A Song of Ice and Fire.",
   "main": "app.js",
   "dependencies": {
+    "@hellholt/debug": "file:local_modules/debug",
+    "@hellholt/log": "file:local_modules/log",
+    "@hellholt/util": "file:local_modules/util",
     "body-parser": "^1.19.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "glob": "^7.1.6",
+    "glob-promise": "^4.0.1"
   },
   "devDependencies": {
     "chai": "^4.3.0",
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-chai-expect": "^2.2.0",
+    "eslint-plugin-chai-friendly": "^0.6.0",
+    "eslint-plugin-import": "^2.22.1",
     "mocha": "^8.2.1"
   },
   "scripts": {
-    "test": "mocha --recursive tests/"
+    "test": "./node_modules/.bin/mocha --exlude '**/node_modules/**' --recursive '**/*.test.js'",
+    "test-unit": "./node_modules/.bin/mocha --exlude '**/node_modules/**' --recursive '**/*.unit.test.js'"
   },
   "repository": {
     "type": "git",

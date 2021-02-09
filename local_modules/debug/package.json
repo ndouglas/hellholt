@@ -1,0 +1,16 @@
+{
+  "name": "@hellholt/debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nathan Douglas <github@tenesm.us>",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.1",
+    "supports-color": "^8.1.1"
+  }
+}

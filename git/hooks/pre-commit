@@ -1,0 +1,104 @@
+#!/usr/bin/env bash
+set -uo pipefail;
+IFS=$'\n\t';
+
+color_restore='\033[0m';
+color_red='\033[00;31m';
+color_green='\033[00;32m';
+color_yellow='\033[00;33m';
+color_blue='\033[00;34m';
+color_purple='\033[00;35m';
+color_cyan='\033[00;36m';
+color_lgray='\033[00;37m';
+color_lred='\033[01;31m';
+color_lgreen='\033[01;32m';
+color_lyellow='\033[01;33m';
+color_lblue='\033[01;34m';
+color_lpurple='\033[01;35m';
+color_lcyan='\033[01;36m';
+color_white='\033[01;37m';
+success_icon="${color_green}✓${color_restore}";
+failure_icon="${color_red}✘${color_restore}";
+current_branch_name="$(git symbolic-ref --short HEAD)";
+
+is_file_binary() {
+  local p="$(printf '%s\t-\t' -)";
+  local t="$(git diff --no-index --numstat /dev/null "$1")";
+  case "$t" in "$p"*) return 0 ;; esac;
+  return 1;
+}
+
+# Prevent commits to main branch.
+if [ "${current_branch_name}" == 'main' ]; then
+  echo -e "${failure_icon} Direct commits to this branch are not allowed." 1>&2;
+  exit 1;
+fi;
+
+# Prevent commits with unresolved conflicts.
+marker_found=0;
+for this_file in $(git diff-index --diff-filter=ACM --cached --name-only HEAD --); do
+  if egrep -rls "^<<<<<<< |^>>>>>>> $" "${this_file}" > /dev/null; then
+    if ! is_file_binary "${this_file}"; then
+      echo -e "${failure_icon} Merge marker found in ${this_file}!" 1>&2;
+      marker_found=$((marker_found+1));
+    fi;
+  fi;
+done;
+if [ "${marker_found}" -ne 0 ]; then
+  exit "${marker_found}";
+fi;
+
+# Prevent commits with excluded tests.
+marker_found=0;
+for this_file in $(git diff-index --diff-filter=ACM --cached --name-only HEAD -- '**/*.test.js'); do
+  if egrep -rls "\.only\(" "${this_file}" > /dev/null; then
+    if ! cnc_file_is_binary "${this_file}"; then
+      echo -e "${failure_icon} Test exclusion found in ${this_file}!" 1>&2;
+      marker_found=$((marker_found+1));
+    fi;
+  fi;
+done;
+if [ "${marker_found}" -ne 0 ]; then
+  exit "${marker_found}";
+fi;
+
+# Validate JS.
+git diff --diff-filter=d --cached --name-only -z -- \
+  ':(exclude)**/node_modules/*' \
+  '*.js' \
+  '*.jsx' \
+  | xargs -0 -I % sh -c 'export my_file="$0"; git show ":${my_file}" | ./node_modules/.bin/eslint --stdin --stdin-filename "${my_file}";' "%";
+eslint_exit=$?;
+if [ ${eslint_exit} -eq 0 ]; then
+  echo -e "${success_icon} ESLint passed";
+else
+  echo -e "${failure_icon} ESLint failed!" 1>&2;
+  exit ${eslint_exit};
+fi;
+
+# Unit Tests.
+npm_test_result=$(FORCE_COLOR=1 npm run --color=always test-unit 2>&1);
+npm_test_exit=$?;
+if [ "${npm_test_exit}" -eq 0 ]; then
+  echo -e "${success_icon} Unit tests passed";
+else
+  echo -e "${failure_icon} Unit tests failed!" 1>&2;
+  echo -e "${npm_test_result}";
+  exit "${npm_test_exit}";
+fi;
+
+export htmllint_command="$(pwd)/node_modules/.bin/htmllint";
+export htmllintrc_path="$(pwd)/.htmllintrc";
+
+# Custom Messages HTML.
+git diff --diff-filter=d --cached --name-only -z -- \
+  ':(exclude)**/node_modules/*' \
+  '*.html' \
+  | xargs -0 -I % sh -c 'export my_file="$0"; git show ":${my_file}" | "${htmllint_command}" --rc "${htmllintrc_path}" "${my_file}";' "%";
+htmllint_exit=$?;
+if [ ${htmllint_exit} -eq 0 ]; then
+  echo -e "${success_icon} HTMLLint passed";
+else
+  echo -e "${failure_icon} HTMLLint failed!" 1>&2;
+  exit ${htmllint_exit};
+fi;

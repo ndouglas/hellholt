@@ -1,0 +1,14 @@
+{
+  "id": "algood",
+  "name": "Algood",
+  "emoji": "🌿",
+  "arms": [
+    {
+      "path": "/images/houses/algood.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Algood.svg",
+      "notes": "The wreath comes from https://commons.wikimedia.org/wiki/File:Escudo_de_Valencia_2.svg"
+    }
+  ]
+}
