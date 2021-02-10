@@ -4,10 +4,17 @@ const util = require('@hellholt/util');
 const express = require('express');
 const bodyParser = require('body-parser');
 
-exports.routes = require('./routes').getRoutes();
-exports.storage = require('./storage');
+const routes = require('./routes').getRoutes();
+const schema = require('./schema');
+const storage = require('./storage');
 
-exports.getApp = (dependencies) => express()
+const dependencies = {
+  routes: routes,
+  schema: schema,
+  storage: storage,
+};
+
+exports.getApp = () => express()
   .use(bodyParser.urlencoded({ extended: true }))
   .use(bodyParser.json())
   .use((req, res, next) => {
@@ -18,7 +25,7 @@ exports.getApp = (dependencies) => express()
     return next();
   })
   .use(express.static('./static'))
-  .use('/', dependencies.routes)
+  .use('/', routes)
   .use((error, req, res, next) => {
     debug('Error', error);
     debug('Request', req);

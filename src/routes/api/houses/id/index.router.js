@@ -2,8 +2,14 @@ const Router = require('express').Router;
 const debug = require('@hellholt/debug')(__filename);
 const util = require('@hellholt/util');
 
-module.exports = Router({ mergeParams: true })
-  .get('/api/houses/:id', async (req, res, next) => {
+const router = Router({ mergeParams: true });
+module.exports = router;
+
+router
+  .all(async (req, res, next) => {
+    next();
+  })
+  .get(async (req, res, next) => {
     try {
       debug('Request', req);
       debug('Response', res);
@@ -21,4 +27,13 @@ module.exports = Router({ mergeParams: true })
       debug('Error', error);
       next(util.wrapError(error, `Error responding to request ${req}`));
     }
+  })
+  .put(async (req, res, next) => {
+    next(new Error('not implemented'));
+  })
+  .post(async (req, res, next) => {
+    next(new Error('not implemented'));
+  })
+  .delete(async (req, res, next) => {
+    next(new Error('not implemented'));
   });
