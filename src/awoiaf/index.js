@@ -155,7 +155,9 @@ promiseClient.getHousePageTitles = () => {
   return promiseClient
     .getHousePages()
     .then((pages) => pages.filter((page) => page.ns === 0).map((page) => page.title))
-    .then((pageTitles) => pageTitles.filter((pageTitle) => pageTitle.startsWith('House ')));
+    .then((pageTitles) => pageTitles.filter((pageTitle) => pageTitle.startsWith('House ')))
+    .then((pageTitles) => pageTitles.filter((pageTitle) => pageTitle.startsWith('House of ') || !pageTitle.includes(' of ')))
+    .then((pageTitles) => pageTitles.filter((pageTitle) => !pageTitle.includes(' (')));
 };
 
 promiseClient.getHouseNames = () => {

@@ -71,9 +71,11 @@ exports.getHouseImageColors = (id) => exports.getSvgColors(exports.getHouseImage
 exports.recalculateHouseData = async (data) => {
   const id = data.id;
   try {
-    if (data.arms && data.arms.length && !fs.existsSync(exports.getHouseImagePath(id))) {
-      const houseImageUrl = data.arms[0].original_object.url;
-      await exports.downloadHouseImage(id, houseImageUrl);
+    if (data.arms && data.arms.length) {
+      if (!fs.existsSync(exports.getHouseImagePath(id))) {
+        const houseImageUrl = data.arms[0].original_object.url;
+        await exports.downloadHouseImage(id, houseImageUrl);
+      }
       const houseColors = await exports.getHouseImageColors(id);
       data.colors = houseColors.map((color) => exports.getColorMap(color));
     }
