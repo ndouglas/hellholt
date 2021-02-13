@@ -55,5 +55,91 @@
       }
     }
   ],
-  "region": "stormlands"
+  "region": "stormlands",
+  "colors": [
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#eeeeee",
+      "rgb": [
+        238,
+        238,
+        238
+      ],
+      "tput": 234,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Gallery",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#bbbbbb",
+      "rgb": [
+        187,
+        187,
+        187
+      ],
+      "tput": 179,
+      "basic": "gray",
+      "html": "silver",
+      "ntc": "Silver",
+      "pantone": "Silver",
+      "x11": "silver"
+    },
+    {
+      "hex": "#777777",
+      "rgb": [
+        119,
+        119,
+        119
+      ],
+      "tput": 106,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Boulder",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

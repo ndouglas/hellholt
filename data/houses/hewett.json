@@ -60,5 +60,133 @@
       }
     }
   ],
-  "region": "the reach]], the [[shield islands"
+  "region": "the reach]], the [[shield islands",
+  "colors": [
+    {
+      "hex": "#0000cc",
+      "rgb": [
+        0,
+        0,
+        204
+      ],
+      "tput": 20,
+      "basic": "blue",
+      "html": "mediumblue",
+      "ntc": "Dark Blue",
+      "pantone": "Purple Heart",
+      "x11": "mediumblue"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#994400",
+      "rgb": [
+        153,
+        68,
+        0
+      ],
+      "tput": 122,
+      "basic": "brown",
+      "html": "saddlebrown",
+      "ntc": "Oregon",
+      "pantone": "Brown",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#ddaa00",
+      "rgb": [
+        221,
+        170,
+        0
+      ],
+      "tput": 203,
+      "basic": "orange",
+      "html": "goldenrod",
+      "ntc": "Galliano",
+      "pantone": "Sunglow",
+      "x11": "goldenrod"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#777777",
+      "rgb": [
+        119,
+        119,
+        119
+      ],
+      "tput": 106,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Boulder",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#444444",
+      "rgb": [
+        68,
+        68,
+        68
+      ],
+      "tput": 16,
+      "basic": "gray",
+      "html": "darkslategray",
+      "ntc": "Cape Cod",
+      "pantone": "Outer Space",
+      "x11": "darkslategrey"
+    }
+  ]
 }

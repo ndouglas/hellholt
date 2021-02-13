@@ -55,5 +55,105 @@
       }
     }
   ],
-  "region": "vale of arryn"
+  "region": "vale of arryn",
+  "colors": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#dd0000",
+      "rgb": [
+        221,
+        0,
+        0
+      ],
+      "tput": 183,
+      "basic": "red",
+      "html": "red",
+      "ntc": "Scarlet",
+      "pantone": "Red Orange",
+      "x11": "red"
+    },
+    {
+      "hex": "#440000",
+      "rgb": [
+        68,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "brown",
+      "html": "maroon",
+      "ntc": "Rustic Red",
+      "pantone": "Black",
+      "x11": "maroon"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#660000",
+      "rgb": [
+        102,
+        0,
+        0
+      ],
+      "tput": 76,
+      "basic": "brown",
+      "html": "maroon",
+      "ntc": "Lonestar",
+      "pantone": "Mahogany",
+      "x11": "maroon"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "florent",
   "name": "Florent",
-  "emoji": "",
+  "emoji": "🦊",
   "words": "",
   "arms": [
     {
@@ -55,5 +55,119 @@
       }
     }
   ],
-  "region": "reach"
+  "region": "reach",
+  "colors": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#26619c",
+      "rgb": [
+        38,
+        97,
+        156
+      ],
+      "tput": 28,
+      "basic": "gray",
+      "html": "steelblue",
+      "ntc": "Matisse",
+      "pantone": "Midnight Blue",
+      "x11": "steelblue"
+    },
+    {
+      "hex": "#173b5e",
+      "rgb": [
+        23,
+        59,
+        94
+      ],
+      "tput": 17,
+      "basic": "black",
+      "html": "darkslategray",
+      "ntc": "Cello",
+      "pantone": "Midnight Blue",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#cd4500",
+      "rgb": [
+        205,
+        69,
+        0
+      ],
+      "tput": 169,
+      "basic": "red",
+      "html": "chocolate",
+      "ntc": "Grenadier",
+      "pantone": "Orange",
+      "x11": "chocolate"
+    },
+    {
+      "hex": "#ffc167",
+      "rgb": [
+        255,
+        193,
+        103
+      ],
+      "tput": 239,
+      "basic": "orange",
+      "html": "sandybrown",
+      "ntc": "Koromiko",
+      "pantone": "Yellow Orange",
+      "x11": "sandybrown"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#812b00",
+      "rgb": [
+        129,
+        43,
+        0
+      ],
+      "tput": 100,
+      "basic": "brown",
+      "html": "saddlebrown",
+      "ntc": "Kenyan Copper",
+      "pantone": "Brown",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

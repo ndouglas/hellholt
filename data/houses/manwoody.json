@@ -1,7 +1,7 @@
 {
   "id": "manwoody",
   "name": "Manwoody",
-  "emoji": "",
+  "emoji": "💀",
   "words": "",
   "arms": [
     {
@@ -60,5 +60,595 @@
       }
     }
   ],
-  "region": "dorne"
+  "region": "dorne",
+  "colors": [
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#cccccc",
+      "rgb": [
+        204,
+        204,
+        204
+      ],
+      "tput": 197,
+      "basic": "white",
+      "html": "lightgray",
+      "ntc": "Cloud",
+      "pantone": "Silver",
+      "x11": "lightgrey"
+    },
+    {
+      "hex": "#231f20",
+      "rgb": [
+        35,
+        31,
+        32
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Shark",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#808080",
+      "rgb": [
+        128,
+        128,
+        128
+      ],
+      "tput": 115,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Gray",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#999999",
+      "rgb": [
+        153,
+        153,
+        153
+      ],
+      "tput": 142,
+      "basic": "gray",
+      "html": "darkgray",
+      "ntc": "Star Dust",
+      "pantone": "Gray",
+      "x11": "darkgrey"
+    },
+    {
+      "hex": "#4c4322",
+      "rgb": [
+        76,
+        67,
+        34
+      ],
+      "tput": 52,
+      "basic": "gray",
+      "html": "darkolivegreen",
+      "ntc": "Thatch Green",
+      "pantone": "Shadow",
+      "x11": "darkolivegreen"
+    },
+    {
+      "hex": "#e7ca45",
+      "rgb": [
+        231,
+        202,
+        69
+      ],
+      "tput": 217,
+      "basic": "gold",
+      "html": "goldenrod",
+      "ntc": "Ronchi",
+      "pantone": "Sunglow",
+      "x11": "goldenrod"
+    },
+    {
+      "hex": "#f6de6b",
+      "rgb": [
+        246,
+        222,
+        107
+      ],
+      "tput": 235,
+      "basic": "gold",
+      "html": "khaki",
+      "ntc": "Kournikova",
+      "pantone": "Dandelion",
+      "x11": "khaki"
+    },
+    {
+      "hex": "#d1b73a",
+      "rgb": [
+        209,
+        183,
+        58
+      ],
+      "tput": 194,
+      "basic": "gold",
+      "html": "goldenrod",
+      "ntc": "Old Gold",
+      "pantone": "Sunglow",
+      "x11": "goldenrod"
+    },
+    {
+      "hex": "#f8eba0",
+      "rgb": [
+        248,
+        235,
+        160
+      ],
+      "tput": 240,
+      "basic": "tan",
+      "html": "palegoldenrod",
+      "ntc": "Vis Vis",
+      "pantone": "Green Yellow",
+      "x11": "palegoldenrod"
+    },
+    {
+      "hex": "#baa234",
+      "rgb": [
+        186,
+        162,
+        52
+      ],
+      "tput": 170,
+      "basic": "tan",
+      "html": "darkgoldenrod",
+      "ntc": "Lemon Ginger",
+      "pantone": "Olive Green",
+      "x11": "darkgoldenrod"
+    },
+    {
+      "hex": "#d1b948",
+      "rgb": [
+        209,
+        185,
+        72
+      ],
+      "tput": 195,
+      "basic": "gold",
+      "html": "goldenrod",
+      "ntc": "Turmeric",
+      "pantone": "Dandelion",
+      "x11": "goldenrod"
+    },
+    {
+      "hex": "#c5a941",
+      "rgb": [
+        197,
+        169,
+        65
+      ],
+      "tput": 181,
+      "basic": "tan",
+      "html": "goldenrod",
+      "ntc": "Roti",
+      "pantone": "Goldenrod",
+      "x11": "goldenrod"
+    },
+    {
+      "hex": "#e7cd54",
+      "rgb": [
+        231,
+        205,
+        84
+      ],
+      "tput": 219,
+      "basic": "gold",
+      "html": "khaki",
+      "ntc": "Confetti",
+      "pantone": "Dandelion",
+      "x11": "khaki"
+    },
+    {
+      "hex": "#f6e078",
+      "rgb": [
+        246,
+        224,
+        120
+      ],
+      "tput": 236,
+      "basic": "tan",
+      "html": "khaki",
+      "ntc": "Golden Sand",
+      "pantone": "Yellow",
+      "x11": "khaki"
+    },
+    {
+      "hex": "#f8eca8",
+      "rgb": [
+        248,
+        236,
+        168
+      ],
+      "tput": 241,
+      "basic": "beige",
+      "html": "palegoldenrod",
+      "ntc": "Sandwisp",
+      "pantone": "Banana Mania",
+      "x11": "palegoldenrod"
+    },
+    {
+      "hex": "#d0b500",
+      "rgb": [
+        208,
+        181,
+        0
+      ],
+      "tput": 193,
+      "basic": "gold",
+      "html": "goldenrod",
+      "ntc": "Gold Tips",
+      "pantone": "Sunglow",
+      "x11": "goldenrod"
+    },
+    {
+      "hex": "#554400",
+      "rgb": [
+        85,
+        68,
+        0
+      ],
+      "tput": 61,
+      "basic": "gray",
+      "html": "darkolivegreen",
+      "ntc": "Horses Neck",
+      "pantone": "Shadow",
+      "x11": "darkolivegreen"
+    },
+    {
+      "hex": "#806600",
+      "rgb": [
+        128,
+        102,
+        0
+      ],
+      "tput": 109,
+      "basic": "tan",
+      "html": "olive",
+      "ntc": "Yukon Gold",
+      "pantone": "Raw Sienna",
+      "x11": "olive"
+    },
+    {
+      "hex": "#a0892c",
+      "rgb": [
+        160,
+        137,
+        44
+      ],
+      "tput": 143,
+      "basic": "tan",
+      "html": "olive",
+      "ntc": "Luxor Gold",
+      "pantone": "Olive Green",
+      "x11": "olive"
+    },
+    {
+      "hex": "#a48d2f",
+      "rgb": [
+        164,
+        141,
+        47
+      ],
+      "tput": 148,
+      "basic": "tan",
+      "html": "olive",
+      "ntc": "Luxor Gold",
+      "pantone": "Olive Green",
+      "x11": "olive"
+    },
+    {
+      "hex": "#aa8800",
+      "rgb": [
+        170,
+        136,
+        0
+      ],
+      "tput": 152,
+      "basic": "orange",
+      "html": "darkgoldenrod",
+      "ntc": "Nugget",
+      "pantone": "Yellow Orange",
+      "x11": "darkgoldenrod"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#ddaa00",
+      "rgb": [
+        221,
+        170,
+        0
+      ],
+      "tput": 203,
+      "basic": "orange",
+      "html": "goldenrod",
+      "ntc": "Galliano",
+      "pantone": "Sunglow",
+      "x11": "goldenrod"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#f3d48c",
+      "rgb": [
+        243,
+        212,
+        140
+      ],
+      "tput": 232,
+      "basic": "tan",
+      "html": "khaki",
+      "ntc": "Cherokee",
+      "pantone": "Green Yellow",
+      "x11": "khaki"
+    },
+    {
+      "hex": "#eed089",
+      "rgb": [
+        238,
+        208,
+        137
+      ],
+      "tput": 227,
+      "basic": "tan",
+      "html": "navajowhite",
+      "ntc": "Putty",
+      "pantone": "Gold",
+      "x11": "navajowhite"
+    },
+    {
+      "hex": "#e0c381",
+      "rgb": [
+        224,
+        195,
+        129
+      ],
+      "tput": 212,
+      "basic": "tan",
+      "html": "burlywood",
+      "ntc": "Putty",
+      "pantone": "Gold",
+      "x11": "burlywood"
+    },
+    {
+      "hex": "#c8ae73",
+      "rgb": [
+        200,
+        174,
+        115
+      ],
+      "tput": 187,
+      "basic": "tan",
+      "html": "burlywood",
+      "ntc": "Straw",
+      "pantone": "Gold",
+      "x11": "burlywood"
+    },
+    {
+      "hex": "#a69160",
+      "rgb": [
+        166,
+        145,
+        96
+      ],
+      "tput": 151,
+      "basic": "tan",
+      "html": "tan",
+      "ntc": "Barley Corn",
+      "pantone": "Shadow",
+      "x11": "tan"
+    },
+    {
+      "hex": "#7c6c47",
+      "rgb": [
+        124,
+        108,
+        71
+      ],
+      "tput": 107,
+      "basic": "gray",
+      "html": "darkolivegreen",
+      "ntc": "Shadow",
+      "pantone": "Shadow",
+      "x11": "darkolivegreen"
+    },
+    {
+      "hex": "#473e29",
+      "rgb": [
+        71,
+        62,
+        41
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkslategray",
+      "ntc": "Lisbon Brown",
+      "pantone": "Outer Space",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#0a0906",
+      "rgb": [
+        10,
+        9,
+        6
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Cod Gray",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#0000ff",
+      "rgb": [
+        0,
+        0,
+        255
+      ],
+      "tput": 21,
+      "basic": "blue",
+      "html": "blue",
+      "ntc": "Blue",
+      "pantone": "Purple Heart",
+      "x11": "blue"
+    },
+    {
+      "hex": "#da251d",
+      "rgb": [
+        218,
+        37,
+        29
+      ],
+      "tput": 180,
+      "basic": "red",
+      "html": "tomato",
+      "ntc": "Monza",
+      "pantone": "Red Orange",
+      "x11": "tomato"
+    },
+    {
+      "hex": "#9f2925",
+      "rgb": [
+        159,
+        41,
+        37
+      ],
+      "tput": 127,
+      "basic": "brown",
+      "html": "brown",
+      "ntc": "Mexican Red",
+      "pantone": "Mahogany",
+      "x11": "brown"
+    },
+    {
+      "hex": "#b8db7c",
+      "rgb": [
+        184,
+        219,
+        124
+      ],
+      "tput": 179,
+      "basic": "tan",
+      "html": "khaki",
+      "ntc": "Yellow Green",
+      "pantone": "Yellow Green",
+      "x11": "khaki"
+    },
+    {
+      "hex": "#007d3c",
+      "rgb": [
+        0,
+        125,
+        60
+      ],
+      "tput": 29,
+      "basic": "green",
+      "html": "seagreen",
+      "ntc": "Salem",
+      "pantone": "Green",
+      "x11": "seagreen"
+    },
+    {
+      "hex": "#403800",
+      "rgb": [
+        64,
+        56,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkolivegreen",
+      "ntc": "Bronze Olive",
+      "pantone": "Shadow",
+      "x11": "darkolivegreen"
+    },
+    {
+      "hex": "#c8af00",
+      "rgb": [
+        200,
+        175,
+        0
+      ],
+      "tput": 185,
+      "basic": "gold",
+      "html": "goldenrod",
+      "ntc": "Gold Tips",
+      "pantone": "Sunglow",
+      "x11": "goldenrod"
+    },
+    {
+      "hex": "#403900",
+      "rgb": [
+        64,
+        57,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkolivegreen",
+      "ntc": "Bronze Olive",
+      "pantone": "Shadow",
+      "x11": "darkolivegreen"
+    }
+  ]
 }

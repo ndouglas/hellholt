@@ -1,7 +1,7 @@
 {
   "id": "graceford",
   "name": "Graceford",
-  "emoji": "",
+  "emoji": "👩",
   "words": "Work Her Will",
   "arms": [
     {
@@ -55,5 +55,147 @@
       }
     }
   ],
-  "region": "reach"
+  "region": "reach",
+  "colors": [
+    {
+      "hex": "#654321",
+      "rgb": [
+        101,
+        67,
+        33
+      ],
+      "tput": 75,
+      "basic": "gray",
+      "html": "saddlebrown",
+      "ntc": "Pickled Bean",
+      "pantone": "Sepia",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#000080",
+      "rgb": [
+        0,
+        0,
+        128
+      ],
+      "tput": 18,
+      "basic": "indigo",
+      "html": "navy",
+      "ntc": "Navy Blue",
+      "pantone": "Purple Heart",
+      "x11": "navy"
+    },
+    {
+      "hex": "#742700",
+      "rgb": [
+        116,
+        39,
+        0
+      ],
+      "tput": 88,
+      "basic": "brown",
+      "html": "saddlebrown",
+      "ntc": "Cedar Wood Finish",
+      "pantone": "Brown",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#fdb380",
+      "rgb": [
+        253,
+        179,
+        128
+      ],
+      "tput": 236,
+      "basic": "tan",
+      "html": "lightsalmon",
+      "ntc": "Macaroni and Cheese",
+      "pantone": "Macaroni and Cheese",
+      "x11": "lightsalmon"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#000040",
+      "rgb": [
+        0,
+        0,
+        64
+      ],
+      "tput": 16,
+      "basic": "indigo",
+      "html": "midnightblue",
+      "ntc": "Stratos",
+      "pantone": "Midnight Blue",
+      "x11": "midnightblue"
+    },
+    {
+      "hex": "#cc6600",
+      "rgb": [
+        204,
+        102,
+        0
+      ],
+      "tput": 178,
+      "basic": "orange",
+      "html": "chocolate",
+      "ntc": "Red Stage",
+      "pantone": "Mango Tango",
+      "x11": "chocolate"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

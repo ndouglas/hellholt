@@ -1,7 +1,7 @@
 {
   "id": "hetherspoon",
   "name": "Hetherspoon",
-  "emoji": "",
+  "emoji": "🥄",
   "words": "",
   "arms": [
     {
@@ -55,5 +55,77 @@
       }
     }
   ],
-  "region": "the westerlands"
+  "region": "the westerlands",
+  "colors": [
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ff6600",
+      "rgb": [
+        255,
+        102,
+        0
+      ],
+      "tput": 224,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Blaze Orange",
+      "pantone": "Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#800000",
+      "rgb": [
+        128,
+        0,
+        0
+      ],
+      "tput": 99,
+      "basic": "brown",
+      "html": "maroon",
+      "ntc": "Maroon",
+      "pantone": "Mahogany",
+      "x11": "maroon"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

@@ -60,5 +60,147 @@
       }
     }
   ],
-  "region": "riverlands"
+  "region": "riverlands",
+  "colors": [
+    {
+      "hex": "#0000cc",
+      "rgb": [
+        0,
+        0,
+        204
+      ],
+      "tput": 20,
+      "basic": "blue",
+      "html": "mediumblue",
+      "ntc": "Dark Blue",
+      "pantone": "Purple Heart",
+      "x11": "mediumblue"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#b00000",
+      "rgb": [
+        176,
+        0,
+        0
+      ],
+      "tput": 142,
+      "basic": "brown",
+      "html": "firebrick",
+      "ntc": "Bright Red",
+      "pantone": "Red Orange",
+      "x11": "firebrick"
+    },
+    {
+      "hex": "#0c0c0c",
+      "rgb": [
+        12,
+        12,
+        12
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Cod Gray",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#333333",
+      "rgb": [
+        51,
+        51,
+        51
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkslategray",
+      "ntc": "Mine Shaft",
+      "pantone": "Black",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#ddaa00",
+      "rgb": [
+        221,
+        170,
+        0
+      ],
+      "tput": 203,
+      "basic": "orange",
+      "html": "goldenrod",
+      "ntc": "Galliano",
+      "pantone": "Sunglow",
+      "x11": "goldenrod"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    }
+  ]
 }

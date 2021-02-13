@@ -142,48 +142,6 @@
       "x11": "orange"
     },
     {
-      "hex": "#990000",
-      "rgb": [
-        153,
-        0,
-        0
-      ],
-      "tput": 122,
-      "basic": "brown",
-      "html": "darkred",
-      "ntc": "Red Berry",
-      "pantone": "Mahogany",
-      "x11": "darkred"
-    },
-    {
-      "hex": "#333333",
-      "rgb": [
-        51,
-        51,
-        51
-      ],
-      "tput": 16,
-      "basic": "black",
-      "html": "darkslategray",
-      "ntc": "Mine Shaft",
-      "pantone": "Black",
-      "x11": "darkslategrey"
-    },
-    {
-      "hex": "#884411",
-      "rgb": [
-        136,
-        68,
-        17
-      ],
-      "tput": 106,
-      "basic": "brown",
-      "html": "saddlebrown",
-      "ntc": "Peru Tan",
-      "pantone": "Brown",
-      "x11": "saddlebrown"
-    },
-    {
       "hex": "#666666",
       "rgb": [
         102,

@@ -1,7 +1,7 @@
 {
   "id": "crakehall",
   "name": "Crakehall",
-  "emoji": "",
+  "emoji": "🐗",
   "words": "None so Fierce",
   "arms": [
     {
@@ -55,5 +55,105 @@
       }
     }
   ],
-  "region": ""
+  "region": "",
+  "colors": [
+    {
+      "hex": "#884411",
+      "rgb": [
+        136,
+        68,
+        17
+      ],
+      "tput": 106,
+      "basic": "brown",
+      "html": "saddlebrown",
+      "ntc": "Peru Tan",
+      "pantone": "Brown",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#111111",
+      "rgb": [
+        17,
+        17,
+        17
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Woodsmoke",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#888888",
+      "rgb": [
+        136,
+        136,
+        136
+      ],
+      "tput": 124,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Gunsmoke",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#ee0000",
+      "rgb": [
+        238,
+        0,
+        0
+      ],
+      "tput": 198,
+      "basic": "red",
+      "html": "red",
+      "ntc": "Scarlet",
+      "pantone": "Red Orange",
+      "x11": "red"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

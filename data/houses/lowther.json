@@ -1,7 +1,7 @@
 {
   "id": "lowther",
   "name": "Lowther",
-  "emoji": "",
+  "emoji": "🐬",
   "words": "",
   "arms": [
     {
@@ -60,5 +60,133 @@
       }
     }
   ],
-  "region": "reach"
+  "region": "reach",
+  "colors": [
+    {
+      "hex": "#00aaaa",
+      "rgb": [
+        0,
+        170,
+        170
+      ],
+      "tput": 39,
+      "basic": "teal",
+      "html": "lightseagreen",
+      "ntc": "Java",
+      "pantone": "Robin Egg Blue",
+      "x11": "lightseagreen"
+    },
+    {
+      "hex": "#dddddd",
+      "rgb": [
+        221,
+        221,
+        221
+      ],
+      "tput": 215,
+      "basic": "white",
+      "html": "gainsboro",
+      "ntc": "Alto",
+      "pantone": "Timberwolf",
+      "x11": "gainsboro"
+    },
+    {
+      "hex": "#aeaeae",
+      "rgb": [
+        174,
+        174,
+        174
+      ],
+      "tput": 165,
+      "basic": "gray",
+      "html": "darkgray",
+      "ntc": "Silver Chalice",
+      "pantone": "Cadet Blue",
+      "x11": "darkgrey"
+    },
+    {
+      "hex": "#8d0101",
+      "rgb": [
+        141,
+        1,
+        1
+      ],
+      "tput": 111,
+      "basic": "brown",
+      "html": "darkred",
+      "ntc": "Red Berry",
+      "pantone": "Mahogany",
+      "x11": "darkred"
+    },
+    {
+      "hex": "#b00000",
+      "rgb": [
+        176,
+        0,
+        0
+      ],
+      "tput": 142,
+      "basic": "brown",
+      "html": "firebrick",
+      "ntc": "Bright Red",
+      "pantone": "Red Orange",
+      "x11": "firebrick"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#1a1a1a",
+      "rgb": [
+        26,
+        26,
+        26
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Woodsmoke",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

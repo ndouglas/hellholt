@@ -1,7 +1,7 @@
 {
   "id": "yronwood",
   "name": "Yronwood",
-  "emoji": "",
+  "emoji": "⛩️",
   "words": "We Guard the Way",
   "arms": [
     {
@@ -55,5 +55,77 @@
       }
     }
   ],
-  "region": "dorne"
+  "region": "dorne",
+  "colors": [
+    {
+      "hex": "#ffdd77",
+      "rgb": [
+        255,
+        221,
+        119
+      ],
+      "tput": 244,
+      "basic": "tan",
+      "html": "khaki",
+      "ntc": "Goldenrod",
+      "pantone": "Goldenrod",
+      "x11": "khaki"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#222222",
+      "rgb": [
+        34,
+        34,
+        34
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Shark",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

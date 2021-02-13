@@ -55,5 +55,105 @@
       }
     }
   ],
-  "region": "reach"
+  "region": "reach",
+  "colors": [
+    {
+      "hex": "#eeeeee",
+      "rgb": [
+        238,
+        238,
+        238
+      ],
+      "tput": 234,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Gallery",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ddaa33",
+      "rgb": [
+        221,
+        170,
+        51
+      ],
+      "tput": 203,
+      "basic": "orange",
+      "html": "goldenrod",
+      "ntc": "Tulip Tree",
+      "pantone": "Yellow Orange",
+      "x11": "goldenrod"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#ee8800",
+      "rgb": [
+        238,
+        136,
+        0
+      ],
+      "tput": 213,
+      "basic": "orange",
+      "html": "darkorange",
+      "ntc": "Tangerine",
+      "pantone": "Neon Carrot",
+      "x11": "darkorange"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

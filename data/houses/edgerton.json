@@ -60,5 +60,147 @@
       }
     }
   ],
-  "region": "crownlands"
+  "region": "crownlands",
+  "colors": [
+    {
+      "hex": "#330088",
+      "rgb": [
+        51,
+        0,
+        136
+      ],
+      "tput": 18,
+      "basic": "indigo",
+      "html": "navy",
+      "ntc": "Blue Gem",
+      "pantone": "Purple Heart",
+      "x11": "navy"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#e73900",
+      "rgb": [
+        231,
+        57,
+        0
+      ],
+      "tput": 192,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Pomegranate",
+      "pantone": "Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#e78c00",
+      "rgb": [
+        231,
+        140,
+        0
+      ],
+      "tput": 208,
+      "basic": "orange",
+      "html": "darkorange",
+      "ntc": "Golden Bell",
+      "pantone": "Neon Carrot",
+      "x11": "darkorange"
+    },
+    {
+      "hex": "#e7e100",
+      "rgb": [
+        231,
+        225,
+        0
+      ],
+      "tput": 220,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Barberry",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#ffff9e",
+      "rgb": [
+        255,
+        255,
+        158
+      ],
+      "tput": 250,
+      "basic": "beige",
+      "html": "khaki",
+      "ntc": "Witch Haze",
+      "pantone": "Canary",
+      "x11": "khaki"
+    },
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#ffff00",
+      "rgb": [
+        255,
+        255,
+        0
+      ],
+      "tput": 247,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Yellow",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

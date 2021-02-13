@@ -55,5 +55,119 @@
       }
     }
   ],
-  "region": "the reach"
+  "region": "the reach",
+  "colors": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#f0f000",
+      "rgb": [
+        240,
+        240,
+        0
+      ],
+      "tput": 231,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Yellow",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#e0e000",
+      "rgb": [
+        224,
+        224,
+        0
+      ],
+      "tput": 214,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Barberry",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#ffff00",
+      "rgb": [
+        255,
+        255,
+        0
+      ],
+      "tput": 247,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Yellow",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#ffff77",
+      "rgb": [
+        255,
+        255,
+        119
+      ],
+      "tput": 249,
+      "basic": "gold",
+      "html": "khaki",
+      "ntc": "Paris Daisy",
+      "pantone": "Laser Lemon",
+      "x11": "khaki"
+    },
+    {
+      "hex": "#b8860b",
+      "rgb": [
+        184,
+        134,
+        11
+      ],
+      "tput": 164,
+      "basic": "orange",
+      "html": "darkgoldenrod",
+      "ntc": "Hot Toddy",
+      "pantone": "Yellow Orange",
+      "x11": "darkgoldenrod"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

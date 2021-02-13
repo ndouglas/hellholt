@@ -60,5 +60,147 @@
       }
     }
   ],
-  "region": "reach"
+  "region": "reach",
+  "colors": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#e3e4e5",
+      "rgb": [
+        227,
+        228,
+        229
+      ],
+      "tput": 222,
+      "basic": "white",
+      "html": "gainsboro",
+      "ntc": "Mercury",
+      "pantone": "White",
+      "x11": "gainsboro"
+    },
+    {
+      "hex": "#333333",
+      "rgb": [
+        51,
+        51,
+        51
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkslategray",
+      "ntc": "Mine Shaft",
+      "pantone": "Black",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#b90005",
+      "rgb": [
+        185,
+        0,
+        5
+      ],
+      "tput": 151,
+      "basic": "brown",
+      "html": "firebrick",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "firebrick"
+    },
+    {
+      "hex": "#66442e",
+      "rgb": [
+        102,
+        68,
+        46
+      ],
+      "tput": 76,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Spice",
+      "pantone": "Sepia",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#ffd700",
+      "rgb": [
+        255,
+        215,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "Gold",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffccaa",
+      "rgb": [
+        255,
+        204,
+        170
+      ],
+      "tput": 242,
+      "basic": "tan",
+      "html": "peachpuff",
+      "ntc": "Flesh",
+      "pantone": "Peach",
+      "x11": "peachpuff"
+    },
+    {
+      "hex": "#00ff00",
+      "rgb": [
+        0,
+        255,
+        0
+      ],
+      "tput": 49,
+      "basic": "green",
+      "html": "lime",
+      "ntc": "Green",
+      "pantone": "Electric Lime",
+      "x11": "lime"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

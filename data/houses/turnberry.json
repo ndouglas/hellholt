@@ -1,7 +1,7 @@
 {
   "id": "turnberry",
   "name": "Turnberry",
-  "emoji": "",
+  "emoji": "🍓",
   "words": "",
   "arms": [
     {
@@ -55,5 +55,105 @@
       }
     }
   ],
-  "region": "westerlands"
+  "region": "westerlands",
+  "colors": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#cccc00",
+      "rgb": [
+        204,
+        204,
+        0
+      ],
+      "tput": 193,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "Bird Flower",
+      "pantone": "Laser Lemon",
+      "x11": "gold"
+    },
+    {
+      "hex": "#005500",
+      "rgb": [
+        0,
+        85,
+        0
+      ],
+      "tput": 23,
+      "basic": "green",
+      "html": "darkgreen",
+      "ntc": "San Felix",
+      "pantone": "Green",
+      "x11": "darkgreen"
+    },
+    {
+      "hex": "#00cc00",
+      "rgb": [
+        0,
+        204,
+        0
+      ],
+      "tput": 41,
+      "basic": "green",
+      "html": "limegreen",
+      "ntc": "Malachite",
+      "pantone": "Electric Lime",
+      "x11": "limegreen"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

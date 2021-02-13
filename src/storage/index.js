@@ -86,9 +86,15 @@ exports.recalculateHouseData = async (data) => {
   return data;
 };
 
-exports.updateHouseData = (data) => exports.setHouseData(exports.recalculateHouseData(data));
+exports.updateHouseData = async (data) => {
+  const recalculatedData = await exports.recalculateHouseData(data);
+  return exports.setHouseData(recalculatedData);
+};
 
-exports.setHouseData = (data) => fsP.writeFile(`${dataPath}/houses/${data.id}.json`, JSON.stringify(data, null, 2)).then(() => data);
+exports.setHouseData = async (data) => {
+  await fsP.writeFile(`${dataPath}/houses/${data.id}.json`, JSON.stringify(data, null, 2));
+  return data;
+};
 
 exports.getTputColor = (r, g, b) => {
   const rWeighted = r < 75 ? 0 : (r - 35) / 40;

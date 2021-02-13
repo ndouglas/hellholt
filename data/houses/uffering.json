@@ -55,5 +55,133 @@
       }
     }
   ],
-  "region": " reach"
+  "region": " reach",
+  "colors": [
+    {
+      "hex": "#777777",
+      "rgb": [
+        119,
+        119,
+        119
+      ],
+      "tput": 106,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Boulder",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#e7ac55",
+      "rgb": [
+        231,
+        172,
+        85
+      ],
+      "tput": 214,
+      "basic": "tan",
+      "html": "sandybrown",
+      "ntc": "Rajah",
+      "pantone": "Yellow Orange",
+      "x11": "sandybrown"
+    },
+    {
+      "hex": "#935416",
+      "rgb": [
+        147,
+        84,
+        22
+      ],
+      "tput": 124,
+      "basic": "brown",
+      "html": "saddlebrown",
+      "ntc": "Korma",
+      "pantone": "Brown",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#ae612a",
+      "rgb": [
+        174,
+        97,
+        42
+      ],
+      "tput": 150,
+      "basic": "brown",
+      "html": "sienna",
+      "ntc": "Desert",
+      "pantone": "Brown",
+      "x11": "sienna"
+    },
+    {
+      "hex": "#dc8740",
+      "rgb": [
+        220,
+        135,
+        64
+      ],
+      "tput": 197,
+      "basic": "orange",
+      "html": "peru",
+      "ntc": "Raw Sienna",
+      "pantone": "Raw Sienna",
+      "x11": "peru"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#008800",
+      "rgb": [
+        0,
+        136,
+        0
+      ],
+      "tput": 31,
+      "basic": "green",
+      "html": "green",
+      "ntc": "Forest Green",
+      "pantone": "Fern",
+      "x11": "green"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "reed",
   "name": "Reed",
-  "emoji": "",
+  "emoji": "🐊",
   "words": "",
   "arms": [
     {
@@ -55,5 +55,77 @@
       }
     }
   ],
-  "region": "north"
+  "region": "north",
+  "colors": [
+    {
+      "hex": "#668866",
+      "rgb": [
+        102,
+        136,
+        102
+      ],
+      "tput": 93,
+      "basic": "gray",
+      "html": "darkolivegreen",
+      "ntc": "Glade Green",
+      "pantone": "Forest Green",
+      "x11": "darkolivegreen"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#aaccaa",
+      "rgb": [
+        170,
+        204,
+        170
+      ],
+      "tput": 166,
+      "basic": "beige",
+      "html": "darkseagreen",
+      "ntc": "Spring Rain",
+      "pantone": "Sea Green",
+      "x11": "darkseagreen"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

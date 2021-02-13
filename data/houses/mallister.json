@@ -1,7 +1,7 @@
 {
   "id": "mallister",
   "name": "Mallister",
-  "emoji": "",
+  "emoji": "🦅",
   "words": "Above the Rest",
   "arms": [
     {
@@ -55,5 +55,91 @@
       }
     }
   ],
-  "region": "riverlands"
+  "region": "riverlands",
+  "colors": [
+    {
+      "hex": "#4b0082",
+      "rgb": [
+        75,
+        0,
+        130
+      ],
+      "tput": 54,
+      "basic": "indigo",
+      "html": "indigo",
+      "ntc": "Pigment Indigo",
+      "pantone": "Purple Heart",
+      "x11": "indigo"
+    },
+    {
+      "hex": "#dddddd",
+      "rgb": [
+        221,
+        221,
+        221
+      ],
+      "tput": 215,
+      "basic": "white",
+      "html": "gainsboro",
+      "ntc": "Alto",
+      "pantone": "Timberwolf",
+      "x11": "gainsboro"
+    },
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

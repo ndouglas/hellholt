@@ -1,7 +1,7 @@
 {
   "id": "qorgyle",
   "name": "Qorgyle",
-  "emoji": "",
+  "emoji": "🦂",
   "words": "",
   "arms": [
     {
@@ -55,5 +55,119 @@
       }
     }
   ],
-  "region": "dorne"
+  "region": "dorne",
+  "colors": [
+    {
+      "hex": "#111111",
+      "rgb": [
+        17,
+        17,
+        17
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Woodsmoke",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#660000",
+      "rgb": [
+        102,
+        0,
+        0
+      ],
+      "tput": 76,
+      "basic": "brown",
+      "html": "maroon",
+      "ntc": "Lonestar",
+      "pantone": "Mahogany",
+      "x11": "maroon"
+    },
+    {
+      "hex": "#990000",
+      "rgb": [
+        153,
+        0,
+        0
+      ],
+      "tput": 122,
+      "basic": "brown",
+      "html": "darkred",
+      "ntc": "Red Berry",
+      "pantone": "Mahogany",
+      "x11": "darkred"
+    },
+    {
+      "hex": "#ff0000",
+      "rgb": [
+        255,
+        0,
+        0
+      ],
+      "tput": 214,
+      "basic": "red",
+      "html": "red",
+      "ntc": "Red",
+      "pantone": "Scarlet",
+      "x11": "red"
+    },
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

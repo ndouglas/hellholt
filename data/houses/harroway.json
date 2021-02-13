@@ -1,7 +1,7 @@
 {
   "id": "harroway",
   "name": "Harroway",
-  "emoji": "",
+  "emoji": "🏰",
   "words": "",
   "arms": [
     {
@@ -55,5 +55,91 @@
       }
     }
   ],
-  "region": ""
+  "region": "",
+  "colors": [
+    {
+      "hex": "#ff8800",
+      "rgb": [
+        255,
+        136,
+        0
+      ],
+      "tput": 229,
+      "basic": "orange",
+      "html": "darkorange",
+      "ntc": "Pizazz",
+      "pantone": "Neon Carrot",
+      "x11": "darkorange"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#673600",
+      "rgb": [
+        103,
+        54,
+        0
+      ],
+      "tput": 77,
+      "basic": "brown",
+      "html": "saddlebrown",
+      "ntc": "Nutmeg Wood Finish",
+      "pantone": "Sepia",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#222222",
+      "rgb": [
+        34,
+        34,
+        34
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Shark",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

@@ -55,5 +55,77 @@
       }
     }
   ],
-  "region": "north"
+  "region": "north",
+  "colors": [
+    {
+      "hex": "#66ff66",
+      "rgb": [
+        102,
+        255,
+        102
+      ],
+      "tput": 110,
+      "basic": "green",
+      "html": "springgreen",
+      "ntc": "Screamin' Green",
+      "pantone": "Screamin Green",
+      "x11": "springgreen"
+    },
+    {
+      "hex": "#654321",
+      "rgb": [
+        101,
+        67,
+        33
+      ],
+      "tput": 75,
+      "basic": "gray",
+      "html": "saddlebrown",
+      "ntc": "Pickled Bean",
+      "pantone": "Sepia",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

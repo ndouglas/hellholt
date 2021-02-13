@@ -60,5 +60,147 @@
       }
     }
   ],
-  "region": "reach"
+  "region": "reach",
+  "colors": [
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#333333",
+      "rgb": [
+        51,
+        51,
+        51
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkslategray",
+      "ntc": "Mine Shaft",
+      "pantone": "Black",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#b2beb5",
+      "rgb": [
+        178,
+        190,
+        181
+      ],
+      "tput": 171,
+      "basic": "beige",
+      "html": "silver",
+      "ntc": "Green Spring",
+      "pantone": "Silver",
+      "x11": "silver"
+    },
+    {
+      "hex": "#f6f6f6",
+      "rgb": [
+        246,
+        246,
+        246
+      ],
+      "tput": 242,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Black Haze",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#ffd42a",
+      "rgb": [
+        255,
+        212,
+        42
+      ],
+      "tput": 240,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "Bright Sun",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#7f7f7f",
+      "rgb": [
+        127,
+        127,
+        127
+      ],
+      "tput": 114,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Gray",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#333300",
+      "rgb": [
+        51,
+        51,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkolivegreen",
+      "ntc": "Waiouru",
+      "pantone": "Black",
+      "x11": "darkolivegreen"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

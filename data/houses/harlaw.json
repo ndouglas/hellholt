@@ -8,16 +8,16 @@
       "path": "/images/houses/harlaw.svg",
       "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
       "license": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Harlaw_(Tower_of_Glimmering).svg",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Harlaw.svg",
       "original_object": {
-        "timestamp": "2016-07-18T19:41:03Z",
+        "timestamp": "2016-07-15T17:41:25Z",
         "user": "Abjiklam",
-        "size": 5654,
+        "size": 2615,
         "width": 600,
         "height": 660,
-        "url": "https://awoiaf.westeros.org/images/d/da/House_Harlaw_%28Tower_of_Glimmering%29.svg",
-        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Harlaw_(Tower_of_Glimmering).svg",
-        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22782",
+        "url": "https://awoiaf.westeros.org/images/a/a6/House_Harlaw.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Harlaw.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22759",
         "metadata": [
           {
             "name": "version",
@@ -72,18 +72,18 @@
       "x11": "black"
     },
     {
-      "hex": "#eeeeee",
+      "hex": "#dddddd",
       "rgb": [
-        238,
-        238,
-        238
+        221,
+        221,
+        221
       ],
-      "tput": 234,
+      "tput": 215,
       "basic": "white",
-      "html": "whitesmoke",
-      "ntc": "Gallery",
-      "pantone": "White",
-      "x11": "whitesmoke"
+      "html": "gainsboro",
+      "ntc": "Alto",
+      "pantone": "Timberwolf",
+      "x11": "gainsboro"
     },
     {
       "hex": "#aaaaaa",

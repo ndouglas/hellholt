@@ -55,5 +55,105 @@
       }
     }
   ],
-  "region": "crownlands"
+  "region": "crownlands",
+  "colors": [
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#0000aa",
+      "rgb": [
+        0,
+        0,
+        170
+      ],
+      "tput": 19,
+      "basic": "indigo",
+      "html": "darkblue",
+      "ntc": "Dark Blue",
+      "pantone": "Purple Heart",
+      "x11": "darkblue"
+    },
+    {
+      "hex": "#ff5577",
+      "rgb": [
+        255,
+        85,
+        119
+      ],
+      "tput": 223,
+      "basic": "brown",
+      "html": "crimson",
+      "ntc": "Wild Watermelon",
+      "pantone": "Radical Red",
+      "x11": "crimson"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

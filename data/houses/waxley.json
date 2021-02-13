@@ -1,7 +1,7 @@
 {
   "id": "waxley",
   "name": "Waxley",
-  "emoji": "",
+  "emoji": "🕯️",
   "words": "Light in Darkness",
   "arms": [
     {
@@ -55,5 +55,119 @@
       }
     }
   ],
-  "region": "vale of arryn"
+  "region": "vale of arryn",
+  "colors": [
+    {
+      "hex": "#888888",
+      "rgb": [
+        136,
+        136,
+        136
+      ],
+      "tput": 124,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Gunsmoke",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#dddddd",
+      "rgb": [
+        221,
+        221,
+        221
+      ],
+      "tput": 215,
+      "basic": "white",
+      "html": "gainsboro",
+      "ntc": "Alto",
+      "pantone": "Timberwolf",
+      "x11": "gainsboro"
+    },
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#ff3300",
+      "rgb": [
+        255,
+        51,
+        0
+      ],
+      "tput": 214,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Scarlet",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#999999",
+      "rgb": [
+        153,
+        153,
+        153
+      ],
+      "tput": 142,
+      "basic": "gray",
+      "html": "darkgray",
+      "ntc": "Star Dust",
+      "pantone": "Gray",
+      "x11": "darkgrey"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

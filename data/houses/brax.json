@@ -1,7 +1,7 @@
 {
   "id": "brax",
   "name": "Brax",
-  "emoji": "",
+  "emoji": "🦄",
   "words": "",
   "arms": [
     {
@@ -55,5 +55,105 @@
       }
     }
   ],
-  "region": "westerlands"
+  "region": "westerlands",
+  "colors": [
+    {
+      "hex": "#eeeeee",
+      "rgb": [
+        238,
+        238,
+        238
+      ],
+      "tput": 234,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Gallery",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#9a009a",
+      "rgb": [
+        154,
+        0,
+        154
+      ],
+      "tput": 126,
+      "basic": "purple",
+      "html": "darkmagenta",
+      "ntc": "Violet Eggplant",
+      "pantone": "Fuchsia",
+      "x11": "darkmagenta"
+    },
+    {
+      "hex": "#670067",
+      "rgb": [
+        103,
+        0,
+        103
+      ],
+      "tput": 78,
+      "basic": "purple",
+      "html": "purple",
+      "ntc": "Clairvoyant",
+      "pantone": "Plum",
+      "x11": "purple"
+    },
+    {
+      "hex": "#510051",
+      "rgb": [
+        81,
+        0,
+        81
+      ],
+      "tput": 58,
+      "basic": "purple",
+      "html": "purple",
+      "ntc": "Clairvoyant",
+      "pantone": "Plum",
+      "x11": "purple"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }

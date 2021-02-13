@@ -60,5 +60,245 @@
       }
     }
   ],
-  "region": "the westerlands"
+  "region": "the westerlands",
+  "colors": [
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#444444",
+      "rgb": [
+        68,
+        68,
+        68
+      ],
+      "tput": 16,
+      "basic": "gray",
+      "html": "darkslategray",
+      "ntc": "Cape Cod",
+      "pantone": "Outer Space",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#cccccc",
+      "rgb": [
+        204,
+        204,
+        204
+      ],
+      "tput": 197,
+      "basic": "white",
+      "html": "lightgray",
+      "ntc": "Cloud",
+      "pantone": "Silver",
+      "x11": "lightgrey"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#ede7a9",
+      "rgb": [
+        237,
+        231,
+        169
+      ],
+      "tput": 230,
+      "basic": "beige",
+      "html": "palegoldenrod",
+      "ntc": "Double Colonial White",
+      "pantone": "Banana Mania",
+      "x11": "palegoldenrod"
+    },
+    {
+      "hex": "#47d30e",
+      "rgb": [
+        71,
+        211,
+        14
+      ],
+      "tput": 42,
+      "basic": "green",
+      "html": "limegreen",
+      "ntc": "Malachite",
+      "pantone": "Electric Lime",
+      "x11": "limegreen"
+    },
+    {
+      "hex": "#91e404",
+      "rgb": [
+        145,
+        228,
+        4
+      ],
+      "tput": 143,
+      "basic": "yellow",
+      "html": "greenyellow",
+      "ntc": "Green Yellow",
+      "pantone": "Inch Worm",
+      "x11": "greenyellow"
+    },
+    {
+      "hex": "#68d42a",
+      "rgb": [
+        104,
+        212,
+        42
+      ],
+      "tput": 104,
+      "basic": "green",
+      "html": "limegreen",
+      "ntc": "Lima",
+      "pantone": "Screamin Green",
+      "x11": "limegreen"
+    },
+    {
+      "hex": "#06e5de",
+      "rgb": [
+        6,
+        229,
+        222
+      ],
+      "tput": 49,
+      "basic": "turquoise",
+      "html": "turquoise",
+      "ntc": "Bright Turquoise",
+      "pantone": "Robin Egg Blue",
+      "x11": "turquoise"
+    },
+    {
+      "hex": "#81df82",
+      "rgb": [
+        129,
+        223,
+        130
+      ],
+      "tput": 131,
+      "basic": "green",
+      "html": "lightgreen",
+      "ntc": "Pastel Green",
+      "pantone": "Fern",
+      "x11": "lightgreen"
+    },
+    {
+      "hex": "#e1e205",
+      "rgb": [
+        225,
+        226,
+        5
+      ],
+      "tput": 215,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Barberry",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#00579c",
+      "rgb": [
+        0,
+        87,
+        156
+      ],
+      "tput": 26,
+      "basic": "gray",
+      "html": "darkslateblue",
+      "ntc": "St Tropaz",
+      "pantone": "Denim",
+      "x11": "darkslateblue"
+    },
+    {
+      "hex": "#8a8b88",
+      "rgb": [
+        138,
+        139,
+        136
+      ],
+      "tput": 126,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Stack",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#c6a376",
+      "rgb": [
+        198,
+        163,
+        118
+      ],
+      "tput": 183,
+      "basic": "tan",
+      "html": "tan",
+      "ntc": "Tan",
+      "pantone": "Tumbleweed",
+      "x11": "tan"
+    },
+    {
+      "hex": "#b8c7e5",
+      "rgb": [
+        184,
+        199,
+        229
+      ],
+      "tput": 179,
+      "basic": "white",
+      "html": "lightsteelblue",
+      "ntc": "Pigeon Post",
+      "pantone": "Periwinkle",
+      "x11": "lightsteelblue"
+    },
+    {
+      "hex": "#007e00",
+      "rgb": [
+        0,
+        126,
+        0
+      ],
+      "tput": 29,
+      "basic": "green",
+      "html": "green",
+      "ntc": "Forest Green",
+      "pantone": "Fern",
+      "x11": "green"
+    }
+  ]
 }

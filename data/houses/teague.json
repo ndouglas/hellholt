@@ -1,7 +1,7 @@
 {
   "id": "teague",
   "name": "Teague",
-  "emoji": "",
+  "emoji": "🔱",
   "words": "",
   "arms": [
     {
@@ -65,5 +65,91 @@
       }
     }
   ],
-  "region": "riverlands"
+  "region": "riverlands",
+  "colors": [
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#6b6b6b",
+      "rgb": [
+        107,
+        107,
+        107
+      ],
+      "tput": 93,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Dove Gray",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#fd0000",
+      "rgb": [
+        253,
+        0,
+        0
+      ],
+      "tput": 212,
+      "basic": "red",
+      "html": "red",
+      "ntc": "Red",
+      "pantone": "Scarlet",
+      "x11": "red"
+    },
+    {
+      "hex": "#e77275",
+      "rgb": [
+        231,
+        114,
+        117
+      ],
+      "tput": 206,
+      "basic": "brown",
+      "html": "lightcoral",
+      "ntc": "Sunglo",
+      "pantone": "Fuzzy Wuzzy Brown",
+      "x11": "lightcoral"
+    }
+  ]
 }

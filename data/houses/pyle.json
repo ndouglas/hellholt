@@ -60,5 +60,161 @@
       }
     }
   ],
-  "region": "crownlands"
+  "region": "crownlands",
+  "colors": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#808000",
+      "rgb": [
+        128,
+        128,
+        0
+      ],
+      "tput": 113,
+      "basic": "green",
+      "html": "olive",
+      "ntc": "Olive",
+      "pantone": "Olive Green",
+      "x11": "olive"
+    },
+    {
+      "hex": "#f2f2f2",
+      "rgb": [
+        242,
+        242,
+        242
+      ],
+      "tput": 238,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Concrete",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#808080",
+      "rgb": [
+        128,
+        128,
+        128
+      ],
+      "tput": 115,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Gray",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#9d9d9d",
+      "rgb": [
+        157,
+        157,
+        157
+      ],
+      "tput": 147,
+      "basic": "gray",
+      "html": "darkgray",
+      "ntc": "Star Dust",
+      "pantone": "Gray",
+      "x11": "darkgrey"
+    },
+    {
+      "hex": "#b8b8b8",
+      "rgb": [
+        184,
+        184,
+        184
+      ],
+      "tput": 176,
+      "basic": "gray",
+      "html": "silver",
+      "ntc": "Silver",
+      "pantone": "Silver",
+      "x11": "silver"
+    },
+    {
+      "hex": "#828282",
+      "rgb": [
+        130,
+        130,
+        130
+      ],
+      "tput": 118,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Gray",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#4d4d4d",
+      "rgb": [
+        77,
+        77,
+        77
+      ],
+      "tput": 61,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Fuscous Gray",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#565656",
+      "rgb": [
+        86,
+        86,
+        86
+      ],
+      "tput": 70,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Chicago",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
 }
