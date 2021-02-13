@@ -1,0 +1,59 @@
+{
+  "id": "hetherspoon",
+  "name": "Hetherspoon",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/hetherspoon.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Hetherspoon.svg",
+      "original_object": {
+        "timestamp": "2018-11-22T10:38:00Z",
+        "user": "Abjiklam",
+        "size": 1709,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/d/dd/House_Hetherspoon.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Hetherspoon.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22916",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "the westerlands"
+}

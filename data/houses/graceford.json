@@ -1,0 +1,59 @@
+{
+  "id": "graceford",
+  "name": "Graceford",
+  "emoji": "",
+  "words": "Work Her Will",
+  "arms": [
+    {
+      "path": "/images/houses/graceford.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Graceford.svg",
+      "original_object": {
+        "timestamp": "2019-03-01T19:39:34Z",
+        "user": "Abjiklam",
+        "size": 8697,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/7/74/House_Graceford.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Graceford.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22913",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "reach"
+}

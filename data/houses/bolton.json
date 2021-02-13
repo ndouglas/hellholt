@@ -1,0 +1,159 @@
+{
+  "id": "bolton",
+  "name": "Bolton",
+  "emoji": "",
+  "words": "Our Blades are Sharp",
+  "arms": [
+    {
+      "path": "/images/houses/bolton.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Mindset",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Bolton.svg",
+      "original_object": {
+        "timestamp": "2020-04-28T11:30:15Z",
+        "user": "Mindset",
+        "size": 9848,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/0/0c/House_Bolton.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Bolton.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=23053",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "north",
+  "colors": [
+    {
+      "hex": "#dd0000",
+      "rgb": [
+        221,
+        0,
+        0
+      ],
+      "tput": 183,
+      "basic": "red",
+      "html": "red",
+      "ntc": "Scarlet",
+      "pantone": "Red Orange",
+      "x11": "red"
+    },
+    {
+      "hex": "#ff9999",
+      "rgb": [
+        255,
+        153,
+        153
+      ],
+      "tput": 234,
+      "basic": "pink",
+      "html": "lightcoral",
+      "ntc": "Sweet Pink",
+      "pantone": "Salmon",
+      "x11": "lightcoral"
+    },
+    {
+      "hex": "#990000",
+      "rgb": [
+        153,
+        0,
+        0
+      ],
+      "tput": 122,
+      "basic": "brown",
+      "html": "darkred",
+      "ntc": "Red Berry",
+      "pantone": "Mahogany",
+      "x11": "darkred"
+    },
+    {
+      "hex": "#dd3333",
+      "rgb": [
+        221,
+        51,
+        51
+      ],
+      "tput": 183,
+      "basic": "brown",
+      "html": "crimson",
+      "ntc": "Cinnabar",
+      "pantone": "Red Orange",
+      "x11": "crimson"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

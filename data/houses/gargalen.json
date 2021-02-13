@@ -1,0 +1,59 @@
+{
+  "id": "gargalen",
+  "name": "Gargalen",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/gargalen.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Gargalen.svg",
+      "original_object": {
+        "timestamp": "2019-03-05T10:33:05Z",
+        "user": "Abjiklam",
+        "size": 118811,
+        "width": 600,
+        "height": 600,
+        "url": "https://awoiaf.westeros.org/images/3/3b/House_Gargalen.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Gargalen.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=26072",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 600
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "600"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 600,
+          "originalWidth": "600",
+          "originalHeight": "600",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "dorne"
+}

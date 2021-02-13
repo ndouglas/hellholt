@@ -1,0 +1,131 @@
+{
+  "id": "allyrion",
+  "name": "Allyrion",
+  "emoji": "✋",
+  "words": "No Foe May Pass",
+  "arms": [
+    {
+      "path": "/images/houses/allyrion.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Allyrion.svg",
+      "original_object": {
+        "timestamp": "2018-09-25T17:04:48Z",
+        "user": "Abjiklam",
+        "size": 3675,
+        "width": 600,
+        "height": 600,
+        "url": "https://awoiaf.westeros.org/images/a/a6/House_Allyrion.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Allyrion.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22585",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 600
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "600"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 600,
+          "originalWidth": "600",
+          "originalHeight": "600",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "dorne",
+  "colors": [
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

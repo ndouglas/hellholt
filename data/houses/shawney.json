@@ -1,0 +1,173 @@
+{
+  "id": "shawney",
+  "name": "Shawney",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/shawney.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Shawney.svg",
+      "original_object": {
+        "timestamp": "2019-03-11T12:38:32Z",
+        "user": "Abjiklam",
+        "size": 7646,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/b/b4/House_Shawney.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Shawney.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=23059",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "riverlands",
+  "colors": [
+    {
+      "hex": "#0000cc",
+      "rgb": [
+        0,
+        0,
+        204
+      ],
+      "tput": 20,
+      "basic": "blue",
+      "html": "mediumblue",
+      "ntc": "Dark Blue",
+      "pantone": "Purple Heart",
+      "x11": "mediumblue"
+    },
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#006600",
+      "rgb": [
+        0,
+        102,
+        0
+      ],
+      "tput": 26,
+      "basic": "green",
+      "html": "darkgreen",
+      "ntc": "Japanese Laurel",
+      "pantone": "Green",
+      "x11": "darkgreen"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#dddddd",
+      "rgb": [
+        221,
+        221,
+        221
+      ],
+      "tput": 215,
+      "basic": "white",
+      "html": "gainsboro",
+      "ntc": "Alto",
+      "pantone": "Timberwolf",
+      "x11": "gainsboro"
+    },
+    {
+      "hex": "#999999",
+      "rgb": [
+        153,
+        153,
+        153
+      ],
+      "tput": 142,
+      "basic": "gray",
+      "html": "darkgray",
+      "ntc": "Star Dust",
+      "pantone": "Gray",
+      "x11": "darkgrey"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "hunt",
+  "name": "Hunt",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/hunt.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Eagle of Seagard",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:Hunt.png",
+      "original_object": {
+        "timestamp": "2014-02-28T06:47:02Z",
+        "user": "Eagle of Seagard",
+        "size": 88013,
+        "width": 571,
+        "height": 629,
+        "url": "https://awoiaf.westeros.org/images/e/e1/Hunt.png",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:Hunt.png",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=8647",
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          }
+        ],
+        "exif": {
+          "frameCount": 0,
+          "loopCount": 1,
+          "duration": 0
+        }
+      }
+    }
+  ],
+  "region": "the reach"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "dayne",
+  "name": "Dayne",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/dayne.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Dayne.svg",
+      "original_object": {
+        "timestamp": "2019-03-12T14:32:35Z",
+        "user": "Abjiklam",
+        "size": 4284,
+        "width": 600,
+        "height": 600,
+        "url": "https://awoiaf.westeros.org/images/9/95/House_Dayne.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Dayne.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22770",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 600
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "600"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 600,
+          "originalWidth": "600",
+          "originalHeight": "600",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "dorne"
+}

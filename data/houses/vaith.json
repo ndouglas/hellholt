@@ -1,0 +1,201 @@
+{
+  "id": "vaith",
+  "name": "Vaith",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/vaith.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Vaith.svg",
+      "original_object": {
+        "timestamp": "2019-03-05T11:30:44Z",
+        "user": "Abjiklam",
+        "size": 22313,
+        "width": 600,
+        "height": 600,
+        "url": "https://awoiaf.westeros.org/images/3/3d/House_Vaith.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Vaith.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=23008",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 600
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "600"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 600,
+          "originalWidth": "600",
+          "originalHeight": "600",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "dorne",
+  "colors": [
+    {
+      "hex": "#ff7700",
+      "rgb": [
+        255,
+        119,
+        0
+      ],
+      "tput": 226,
+      "basic": "orange",
+      "html": "darkorange",
+      "ntc": "Flamenco",
+      "pantone": "Orange",
+      "x11": "darkorange"
+    },
+    {
+      "hex": "#ffff00",
+      "rgb": [
+        255,
+        255,
+        0
+      ],
+      "tput": 247,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Yellow",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#552200",
+      "rgb": [
+        85,
+        34,
+        0
+      ],
+      "tput": 61,
+      "basic": "brown",
+      "html": "saddlebrown",
+      "ntc": "Brown Bramble",
+      "pantone": "Sepia",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#555555",
+      "rgb": [
+        85,
+        85,
+        85
+      ],
+      "tput": 69,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Chicago",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#222222",
+      "rgb": [
+        34,
+        34,
+        34
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Shark",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#772b07",
+      "rgb": [
+        119,
+        43,
+        7
+      ],
+      "tput": 91,
+      "basic": "brown",
+      "html": "saddlebrown",
+      "ntc": "Pueblo",
+      "pantone": "Brown",
+      "x11": "saddlebrown"
+    }
+  ]
+}

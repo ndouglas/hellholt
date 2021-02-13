@@ -1,0 +1,131 @@
+{
+  "id": "rhysling",
+  "name": "Rhysling",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/rhysling.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Rhysling.svg",
+      "original_object": {
+        "timestamp": "2019-03-08T14:03:18Z",
+        "user": "Abjiklam",
+        "size": 5025,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/9/9a/House_Rhysling.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Rhysling.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=26085",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "",
+  "colors": [
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#deaa87",
+      "rgb": [
+        222,
+        170,
+        135
+      ],
+      "tput": 207,
+      "basic": "tan",
+      "html": "burlywood",
+      "ntc": "Tumbleweed",
+      "pantone": "Tumbleweed",
+      "x11": "burlywood"
+    },
+    {
+      "hex": "#222222",
+      "rgb": [
+        34,
+        34,
+        34
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Shark",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    }
+  ]
+}

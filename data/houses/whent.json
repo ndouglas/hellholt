@@ -1,0 +1,248 @@
+{
+  "id": "whent",
+  "name": "Whent",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/whent.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Lord Evermore",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Whent.svg",
+      "original_object": {
+        "timestamp": "2016-07-21T00:49:06Z",
+        "user": "Lord Evermore",
+        "size": 173041,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/7/7d/House_Whent.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Whent.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22838",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "riverlands",
+  "colors": [
+    {
+      "hex": "#ffff00",
+      "rgb": [
+        255,
+        255,
+        0
+      ],
+      "tput": 247,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Yellow",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#aa0044",
+      "rgb": [
+        170,
+        0,
+        68
+      ],
+      "tput": 137,
+      "basic": "brown",
+      "html": "brown",
+      "ntc": "Maroon Flush",
+      "pantone": "Maroon",
+      "x11": "brown"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#090909",
+      "rgb": [
+        9,
+        9,
+        9
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Cod Gray",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#999999",
+      "rgb": [
+        153,
+        153,
+        153
+      ],
+      "tput": 142,
+      "basic": "gray",
+      "html": "darkgray",
+      "ntc": "Star Dust",
+      "pantone": "Gray",
+      "x11": "darkgrey"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#111111",
+      "rgb": [
+        17,
+        17,
+        17
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Woodsmoke",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#00ff00",
+      "rgb": [
+        0,
+        255,
+        0
+      ],
+      "tput": 49,
+      "basic": "green",
+      "html": "lime",
+      "ntc": "Green",
+      "pantone": "Electric Lime",
+      "x11": "lime"
+    },
+    {
+      "hex": "#969696",
+      "rgb": [
+        150,
+        150,
+        150
+      ],
+      "tput": 139,
+      "basic": "gray",
+      "html": "darkgray",
+      "ntc": "Mountain Mist",
+      "pantone": "Gray",
+      "x11": "darkgrey"
+    },
+    {
+      "hex": "#101010",
+      "rgb": [
+        16,
+        16,
+        16
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Woodsmoke",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#303030",
+      "rgb": [
+        48,
+        48,
+        48
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkslategray",
+      "ntc": "Mine Shaft",
+      "pantone": "Black",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#949494",
+      "rgb": [
+        148,
+        148,
+        148
+      ],
+      "tput": 137,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Mountain Mist",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

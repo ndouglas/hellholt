@@ -1,0 +1,215 @@
+{
+  "id": "cockshaw",
+  "name": "Cockshaw",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/cockshaw.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Cockshaw.svg",
+      "original_object": {
+        "timestamp": "2018-10-23T17:33:38Z",
+        "user": "Abjiklam",
+        "size": 18865,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/2/26/House_Cockshaw.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Cockshaw.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22723",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "the reach",
+  "colors": [
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#dd0000",
+      "rgb": [
+        221,
+        0,
+        0
+      ],
+      "tput": 183,
+      "basic": "red",
+      "html": "red",
+      "ntc": "Scarlet",
+      "pantone": "Red Orange",
+      "x11": "red"
+    },
+    {
+      "hex": "#ff1111",
+      "rgb": [
+        255,
+        17,
+        17
+      ],
+      "tput": 214,
+      "basic": "red",
+      "html": "red",
+      "ntc": "Red",
+      "pantone": "Scarlet",
+      "x11": "red"
+    },
+    {
+      "hex": "#aa0000",
+      "rgb": [
+        170,
+        0,
+        0
+      ],
+      "tput": 137,
+      "basic": "brown",
+      "html": "firebrick",
+      "ntc": "Bright Red",
+      "pantone": "Red Orange",
+      "x11": "firebrick"
+    },
+    {
+      "hex": "#dddddd",
+      "rgb": [
+        221,
+        221,
+        221
+      ],
+      "tput": 215,
+      "basic": "white",
+      "html": "gainsboro",
+      "ntc": "Alto",
+      "pantone": "Timberwolf",
+      "x11": "gainsboro"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#999999",
+      "rgb": [
+        153,
+        153,
+        153
+      ],
+      "tput": 142,
+      "basic": "gray",
+      "html": "darkgray",
+      "ntc": "Star Dust",
+      "pantone": "Gray",
+      "x11": "darkgrey"
+    },
+    {
+      "hex": "#ffcc00",
+      "rgb": [
+        255,
+        204,
+        0
+      ],
+      "tput": 239,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "Supernova",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#ffee00",
+      "rgb": [
+        255,
+        238,
+        0
+      ],
+      "tput": 244,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Broom",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#cccc00",
+      "rgb": [
+        204,
+        204,
+        0
+      ],
+      "tput": 193,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "Bird Flower",
+      "pantone": "Laser Lemon",
+      "x11": "gold"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

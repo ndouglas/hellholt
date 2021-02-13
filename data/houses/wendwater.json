@@ -1,0 +1,159 @@
+{
+  "id": "wendwater",
+  "name": "Wendwater",
+  "emoji": "",
+  "words": "For All Seasons",
+  "arms": [
+    {
+      "path": "/images/houses/wendwater.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Wendwater.svg",
+      "original_object": {
+        "timestamp": "2018-11-14T17:05:15Z",
+        "user": "Abjiklam",
+        "size": 37819,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/8/8a/House_Wendwater.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Wendwater.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=23054",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "crownlands",
+  "colors": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#008800",
+      "rgb": [
+        0,
+        136,
+        0
+      ],
+      "tput": 31,
+      "basic": "green",
+      "html": "green",
+      "ntc": "Forest Green",
+      "pantone": "Fern",
+      "x11": "green"
+    },
+    {
+      "hex": "#800000",
+      "rgb": [
+        128,
+        0,
+        0
+      ],
+      "tput": 99,
+      "basic": "brown",
+      "html": "maroon",
+      "ntc": "Maroon",
+      "pantone": "Mahogany",
+      "x11": "maroon"
+    },
+    {
+      "hex": "#006600",
+      "rgb": [
+        0,
+        102,
+        0
+      ],
+      "tput": 26,
+      "basic": "green",
+      "html": "darkgreen",
+      "ntc": "Japanese Laurel",
+      "pantone": "Green",
+      "x11": "darkgreen"
+    },
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "volmark",
+  "name": "Volmark",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/volmark.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Volmark.svg",
+      "original_object": {
+        "timestamp": "2020-10-07T15:20:36Z",
+        "user": "Abjiklam",
+        "size": 14542,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/2/25/House_Volmark.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Volmark.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22960",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "title",
+            "value": "House Volmark"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title>House Targaryen</dc:title>\n        <dc:date>27 September 2020</dc:date>\n        <dc:creator>\n          <cc:Agent>\n            <dc:title>Abjiklam (abjiklam@gmail.com)</dc:title>\n          </cc:Agent>\n        </dc:creator>\n        <dc:description>\n          The sigil of House Volmark.\n          A black leviathan on grey.\n        </dc:description>\n        <cc:license rdf:resource=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"/>\n      </cc:Work>\n      <cc:License rdf:about=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">\n        <cc:permits rdf:resource=\"http://creativecommons.org/ns#Reproduction\"/>\n        <cc:permits rdf:resource=\"http://creativecommons.org/ns#Distribution\"/>\n        <cc:requires rdf:resource=\"http://creativecommons.org/ns#Notice\"/>\n        <cc:requires rdf:resource=\"http://creativecommons.org/ns#Attribution\"/>\n        <cc:prohibits rdf:resource=\"http://creativecommons.org/ns#CommercialUse\"/>\n        <cc:permits rdf:resource=\"http://creativecommons.org/ns#DerivativeWorks\"/>\n        <cc:requires rdf:resource=\"http://creativecommons.org/ns#ShareAlike\"/>\n      </cc:License>\n    </rdf:RDF>"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "title": "House Volmark",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title>House Targaryen</dc:title>\n        <dc:date>27 September 2020</dc:date>\n        <dc:creator>\n          <cc:Agent>\n            <dc:title>Abjiklam (abjiklam@gmail.com)</dc:title>\n          </cc:Agent>\n        </dc:creator>\n        <dc:description>\n          The sigil of House Volmark.\n          A black leviathan on grey.\n        </dc:description>\n        <cc:license rdf:resource=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"/>\n      </cc:Work>\n      <cc:License rdf:about=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">\n        <cc:permits rdf:resource=\"http://creativecommons.org/ns#Reproduction\"/>\n        <cc:permits rdf:resource=\"http://creativecommons.org/ns#Distribution\"/>\n        <cc:requires rdf:resource=\"http://creativecommons.org/ns#Notice\"/>\n        <cc:requires rdf:resource=\"http://creativecommons.org/ns#Attribution\"/>\n        <cc:prohibits rdf:resource=\"http://creativecommons.org/ns#CommercialUse\"/>\n        <cc:permits rdf:resource=\"http://creativecommons.org/ns#DerivativeWorks\"/>\n        <cc:requires rdf:resource=\"http://creativecommons.org/ns#ShareAlike\"/>\n      </cc:License>\n    </rdf:RDF>",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "iron islands]]<br>[[the reach",
+  "colors": [
+    {
+      "hex": "#999999",
+      "rgb": [
+        153,
+        153,
+        153
+      ],
+      "tput": 142,
+      "basic": "gray",
+      "html": "darkgray",
+      "ntc": "Star Dust",
+      "pantone": "Gray",
+      "x11": "darkgrey"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#111111",
+      "rgb": [
+        17,
+        17,
+        17
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Woodsmoke",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

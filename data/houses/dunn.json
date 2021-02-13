@@ -1,0 +1,44 @@
+{
+  "id": "dunn",
+  "name": "Dunn",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/dunn.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Eagle of Seagard",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:Dunn.png",
+      "original_object": {
+        "timestamp": "2014-02-28T06:23:38Z",
+        "user": "Eagle of Seagard",
+        "size": 184258,
+        "width": 571,
+        "height": 629,
+        "url": "https://awoiaf.westeros.org/images/5/52/Dunn.png",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:Dunn.png",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=8645",
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          }
+        ],
+        "exif": {
+          "frameCount": 0,
+          "loopCount": 1,
+          "duration": 0
+        }
+      }
+    }
+  ],
+  "region": "the reach"
+}

@@ -1,0 +1,169 @@
+{
+  "id": "yew",
+  "name": "Yew",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/yew.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Lord Evermore",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Yew.svg",
+      "original_object": {
+        "timestamp": "2016-07-21T00:49:20Z",
+        "user": "Lord Evermore",
+        "size": 20758,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/d/d0/House_Yew.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Yew.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22839",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>"
+          },
+          {
+            "name": "description",
+            "value": "Flag of Canton of Valais (Wallis)"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>",
+          "description": "Flag of Canton of Valais (Wallis)",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "westerlands",
+  "colors": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#b00000",
+      "rgb": [
+        176,
+        0,
+        0
+      ],
+      "tput": 142,
+      "basic": "brown",
+      "html": "firebrick",
+      "ntc": "Bright Red",
+      "pantone": "Red Orange",
+      "x11": "firebrick"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#6b6b6b",
+      "rgb": [
+        107,
+        107,
+        107
+      ],
+      "tput": 93,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Dove Gray",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#fd0000",
+      "rgb": [
+        253,
+        0,
+        0
+      ],
+      "tput": 212,
+      "basic": "red",
+      "html": "red",
+      "ntc": "Red",
+      "pantone": "Scarlet",
+      "x11": "red"
+    },
+    {
+      "hex": "#e77275",
+      "rgb": [
+        231,
+        114,
+        117
+      ],
+      "tput": 206,
+      "basic": "brown",
+      "html": "lightcoral",
+      "ntc": "Sunglo",
+      "pantone": "Fuzzy Wuzzy Brown",
+      "x11": "lightcoral"
+    }
+  ]
+}

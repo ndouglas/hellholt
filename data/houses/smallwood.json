@@ -1,0 +1,178 @@
+{
+  "id": "smallwood",
+  "name": "Smallwood",
+  "emoji": "",
+  "words": "From These Beginnings",
+  "arms": [
+    {
+      "path": "/images/houses/smallwood.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Lord Evermore",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Smallwood.svg",
+      "original_object": {
+        "timestamp": "2016-07-25T00:55:14Z",
+        "user": "Lord Evermore",
+        "size": 67100,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/8/80/House_Smallwood.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Smallwood.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22933",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "riverlands",
+  "colors": [
+    {
+      "hex": "#ffff00",
+      "rgb": [
+        255,
+        255,
+        0
+      ],
+      "tput": 247,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Yellow",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#5ab532",
+      "rgb": [
+        90,
+        181,
+        50
+      ],
+      "tput": 87,
+      "basic": "green",
+      "html": "forestgreen",
+      "ntc": "Apple",
+      "pantone": "Inch Worm",
+      "x11": "forestgreen"
+    },
+    {
+      "hex": "#884411",
+      "rgb": [
+        136,
+        68,
+        17
+      ],
+      "tput": 106,
+      "basic": "brown",
+      "html": "saddlebrown",
+      "ntc": "Peru Tan",
+      "pantone": "Brown",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#ddaa00",
+      "rgb": [
+        221,
+        170,
+        0
+      ],
+      "tput": 203,
+      "basic": "orange",
+      "html": "goldenrod",
+      "ntc": "Galliano",
+      "pantone": "Sunglow",
+      "x11": "goldenrod"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    }
+  ]
+}

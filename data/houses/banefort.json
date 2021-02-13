@@ -1,0 +1,145 @@
+{
+  "id": "banefort",
+  "name": "Banefort",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/banefort.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Banefort.svg",
+      "original_object": {
+        "timestamp": "2019-06-17T12:47:37Z",
+        "user": "Abjiklam",
+        "size": 23494,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/a/a1/House_Banefort.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Banefort.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=26446",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "westerlands",
+  "colors": [
+    {
+      "hex": "#888888",
+      "rgb": [
+        136,
+        136,
+        136
+      ],
+      "tput": 124,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Gunsmoke",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#ee9900",
+      "rgb": [
+        238,
+        153,
+        0
+      ],
+      "tput": 216,
+      "basic": "orange",
+      "html": "orange",
+      "ntc": "Tree Poppy",
+      "pantone": "Neon Carrot",
+      "x11": "orange"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "piper",
+  "name": "Piper",
+  "emoji": "",
+  "words": "Brave and Beautiful",
+  "arms": [
+    {
+      "path": "/images/houses/piper.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Piper.svg",
+      "original_object": {
+        "timestamp": "2019-03-01T21:38:11Z",
+        "user": "Abjiklam",
+        "size": 9962,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/3/3b/House_Piper.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Piper.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22905",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "",
+  "colors": [
+    {
+      "hex": "#0000ff",
+      "rgb": [
+        0,
+        0,
+        255
+      ],
+      "tput": 21,
+      "basic": "blue",
+      "html": "blue",
+      "ntc": "Blue",
+      "pantone": "Purple Heart",
+      "x11": "blue"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#ffff00",
+      "rgb": [
+        255,
+        255,
+        0
+      ],
+      "tput": 247,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Yellow",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#ff8080",
+      "rgb": [
+        255,
+        128,
+        128
+      ],
+      "tput": 230,
+      "basic": "brown",
+      "html": "lightcoral",
+      "ntc": "Geraldine",
+      "pantone": "Bittersweet",
+      "x11": "lightcoral"
+    },
+    {
+      "hex": "#d35f5f",
+      "rgb": [
+        211,
+        95,
+        95
+      ],
+      "tput": 184,
+      "basic": "brown",
+      "html": "indianred",
+      "ntc": "Chestnut Rose",
+      "pantone": "Fuzzy Wuzzy Brown",
+      "x11": "indianred"
+    },
+    {
+      "hex": "#000040",
+      "rgb": [
+        0,
+        0,
+        64
+      ],
+      "tput": 16,
+      "basic": "indigo",
+      "html": "midnightblue",
+      "ntc": "Stratos",
+      "pantone": "Midnight Blue",
+      "x11": "midnightblue"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "velaryon",
+  "name": "Velaryon",
+  "emoji": "",
+  "words": "The Old, the True, the Brave",
+  "arms": [
+    {
+      "path": "/images/houses/velaryon.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Velaryon.svg",
+      "original_object": {
+        "timestamp": "2018-09-18T02:03:14Z",
+        "user": "Abjiklam",
+        "size": 13355,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/5/5f/House_Velaryon.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Velaryon.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22606",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "blackwater bay]], the [[crownlands",
+  "colors": [
+    {
+      "hex": "#00aaaa",
+      "rgb": [
+        0,
+        170,
+        170
+      ],
+      "tput": 39,
+      "basic": "teal",
+      "html": "lightseagreen",
+      "ntc": "Java",
+      "pantone": "Robin Egg Blue",
+      "x11": "lightseagreen"
+    },
+    {
+      "hex": "#dddddd",
+      "rgb": [
+        221,
+        221,
+        221
+      ],
+      "tput": 215,
+      "basic": "white",
+      "html": "gainsboro",
+      "ntc": "Alto",
+      "pantone": "Timberwolf",
+      "x11": "gainsboro"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#333333",
+      "rgb": [
+        51,
+        51,
+        51
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkslategray",
+      "ntc": "Mine Shaft",
+      "pantone": "Black",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

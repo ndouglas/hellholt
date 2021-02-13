@@ -1,0 +1,145 @@
+{
+  "id": "bulwer",
+  "name": "Bulwer",
+  "emoji": "",
+  "words": "Death Before Disgrace",
+  "arms": [
+    {
+      "path": "/images/houses/bulwer.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Bulwer.svg",
+      "original_object": {
+        "timestamp": "2018-10-26T10:23:28Z",
+        "user": "Abjiklam",
+        "size": 3139,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/8/8d/House_Bulwer.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Bulwer.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=25050",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "",
+  "colors": [
+    {
+      "hex": "#880000",
+      "rgb": [
+        136,
+        0,
+        0
+      ],
+      "tput": 106,
+      "basic": "brown",
+      "html": "darkred",
+      "ntc": "Red Berry",
+      "pantone": "Mahogany",
+      "x11": "darkred"
+    },
+    {
+      "hex": "#ffffdd",
+      "rgb": [
+        255,
+        255,
+        221
+      ],
+      "tput": 251,
+      "basic": "beige",
+      "html": "lightyellow",
+      "ntc": "Moon Glow",
+      "pantone": "Spring Green",
+      "x11": "lightyellow"
+    },
+    {
+      "hex": "#ccccaa",
+      "rgb": [
+        204,
+        204,
+        170
+      ],
+      "tput": 196,
+      "basic": "tan",
+      "html": "wheat",
+      "ntc": "Thistle Green",
+      "pantone": "Spring Green",
+      "x11": "wheat"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

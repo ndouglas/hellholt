@@ -1,0 +1,64 @@
+{
+  "id": "tallhart",
+  "name": "Tallhart",
+  "emoji": "",
+  "words": "Proud and Free",
+  "arms": [
+    {
+      "path": "/images/houses/tallhart.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Lord Evermore",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Tallhart.svg",
+      "original_object": {
+        "timestamp": "2016-07-27T01:59:59Z",
+        "user": "Lord Evermore",
+        "size": 241867,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/f/fe/House_Tallhart.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Tallhart.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22990",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "north"
+}

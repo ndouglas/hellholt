@@ -1,0 +1,173 @@
+{
+  "id": "dalt",
+  "name": "Dalt",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/dalt.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Dalt.svg",
+      "original_object": {
+        "timestamp": "2018-04-25T01:13:41Z",
+        "user": "Abjiklam",
+        "size": 3575,
+        "width": 600,
+        "height": 600,
+        "url": "https://awoiaf.westeros.org/images/1/17/House_Dalt.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Dalt.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22625",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 600
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "600"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 600,
+          "originalWidth": "600",
+          "originalHeight": "600",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "dorne",
+  "colors": [
+    {
+      "hex": "#aa00aa",
+      "rgb": [
+        170,
+        0,
+        170
+      ],
+      "tput": 140,
+      "basic": "purple",
+      "html": "darkmagenta",
+      "ntc": "Violet Eggplant",
+      "pantone": "Razzle Dazzle Rose",
+      "x11": "darkmagenta"
+    },
+    {
+      "hex": "#008800",
+      "rgb": [
+        0,
+        136,
+        0
+      ],
+      "tput": 31,
+      "basic": "green",
+      "html": "green",
+      "ntc": "Forest Green",
+      "pantone": "Fern",
+      "x11": "green"
+    },
+    {
+      "hex": "#994411",
+      "rgb": [
+        153,
+        68,
+        17
+      ],
+      "tput": 122,
+      "basic": "brown",
+      "html": "saddlebrown",
+      "ntc": "Oregon",
+      "pantone": "Brown",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#ffee00",
+      "rgb": [
+        255,
+        238,
+        0
+      ],
+      "tput": 244,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Broom",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#77cc00",
+      "rgb": [
+        119,
+        204,
+        0
+      ],
+      "tput": 116,
+      "basic": "green",
+      "html": "yellowgreen",
+      "ntc": "Lima",
+      "pantone": "Inch Worm",
+      "x11": "yellowgreen"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "cerwyn",
+  "name": "Cerwyn",
+  "emoji": "",
+  "words": "Honed and Ready",
+  "arms": [
+    {
+      "path": "/images/houses/cerwyn.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Lord Evermore",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Cerwyn.svg",
+      "original_object": {
+        "timestamp": "2016-07-18T23:49:47Z",
+        "user": "Lord Evermore",
+        "size": 6516,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/2/2c/House_Cerwyn.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Cerwyn.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22796",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "north",
+  "colors": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#333333",
+      "rgb": [
+        51,
+        51,
+        51
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkslategray",
+      "ntc": "Mine Shaft",
+      "pantone": "Black",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#eeeeee",
+      "rgb": [
+        238,
+        238,
+        238
+      ],
+      "tput": 234,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Gallery",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

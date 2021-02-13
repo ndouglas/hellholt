@@ -1,0 +1,64 @@
+{
+  "id": "codd",
+  "name": "Codd",
+  "emoji": "",
+  "words": "Though All Men Do Despise Us",
+  "arms": [
+    {
+      "path": "/images/houses/codd.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Anumaril",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Codd.svg",
+      "original_object": {
+        "timestamp": "2020-08-11T13:24:17Z",
+        "user": "Anumaril",
+        "size": 41533,
+        "width": 562,
+        "height": 617,
+        "url": "https://awoiaf.westeros.org/images/a/a8/House_Codd.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Codd.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=27870",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 562
+          },
+          {
+            "name": "height",
+            "value": 617
+          },
+          {
+            "name": "originalWidth",
+            "value": "158.48541mm"
+          },
+          {
+            "name": "originalHeight",
+            "value": "174.12294mm"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 562,
+          "height": 617,
+          "originalWidth": "158.48541mm",
+          "originalHeight": "174.12294mm",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "iron islands"
+}

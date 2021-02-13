@@ -5,7 +5,7 @@ const util = require('@hellholt/util');
 const router = Router({ mergeParams: true });
 module.exports = router;
 
-router
+router.route('/api/houses/:id')
   .all(async (req, res, next) => {
     next();
   })
@@ -27,13 +27,4 @@ router
       debug('Error', error);
       next(util.wrapError(error, `Error responding to request ${req}`));
     }
-  })
-  .put(async (req, res, next) => {
-    next(new Error('not implemented'));
-  })
-  .post(async (req, res, next) => {
-    next(new Error('not implemented'));
-  })
-  .delete(async (req, res, next) => {
-    next(new Error('not implemented'));
   });

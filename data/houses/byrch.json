@@ -1,0 +1,59 @@
+{
+  "id": "byrch",
+  "name": "Byrch",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/byrch.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Byrch.svg",
+      "original_object": {
+        "timestamp": "2018-11-14T19:11:18Z",
+        "user": "Abjiklam",
+        "size": 5568,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/9/9c/House_Byrch.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Byrch.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22724",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "crownlands"
+}

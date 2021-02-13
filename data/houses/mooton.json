@@ -1,0 +1,159 @@
+{
+  "id": "mooton",
+  "name": "Mooton",
+  "emoji": "",
+  "words": "Wisdom and Strength",
+  "arms": [
+    {
+      "path": "/images/houses/mooton.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Mooton.svg",
+      "original_object": {
+        "timestamp": "2018-09-29T19:27:53Z",
+        "user": "Abjiklam",
+        "size": 12484,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/a/a6/House_Mooton.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Mooton.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22808",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "riverlands",
+  "colors": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#ffcc00",
+      "rgb": [
+        255,
+        204,
+        0
+      ],
+      "tput": 239,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "Supernova",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#aa0000",
+      "rgb": [
+        170,
+        0,
+        0
+      ],
+      "tput": 137,
+      "basic": "brown",
+      "html": "firebrick",
+      "ntc": "Bright Red",
+      "pantone": "Red Orange",
+      "x11": "firebrick"
+    },
+    {
+      "hex": "#eeeeee",
+      "rgb": [
+        238,
+        238,
+        238
+      ],
+      "tput": 234,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Gallery",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

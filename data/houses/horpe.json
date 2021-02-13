@@ -1,0 +1,59 @@
+{
+  "id": "horpe",
+  "name": "Horpe",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/horpe.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Horpe.svg",
+      "original_object": {
+        "timestamp": "2021-02-01T18:14:18Z",
+        "user": "Abjiklam",
+        "size": 18976,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/6/64/House_Horpe.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Horpe.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=25049",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "stormlands"
+}

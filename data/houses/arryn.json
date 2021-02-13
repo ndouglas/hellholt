@@ -1,0 +1,187 @@
+{
+  "id": "arryn",
+  "name": "Arryn",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/arryn.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Arryn.svg",
+      "original_object": {
+        "timestamp": "2021-01-30T16:30:21Z",
+        "user": "Abjiklam",
+        "size": 51095,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/b/b4/House_Arryn.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Arryn.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22605",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "",
+  "colors": [
+    {
+      "hex": "#0088ee",
+      "rgb": [
+        0,
+        136,
+        238
+      ],
+      "tput": 36,
+      "basic": "violet",
+      "html": "dodgerblue",
+      "ntc": "Dodger Blue",
+      "pantone": "Navy Blue",
+      "x11": "dodgerblue"
+    },
+    {
+      "hex": "#f2f2f2",
+      "rgb": [
+        242,
+        242,
+        242
+      ],
+      "tput": 238,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Concrete",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#f9f9f9",
+      "rgb": [
+        249,
+        249,
+        249
+      ],
+      "tput": 246,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Alabaster",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#007ade",
+      "rgb": [
+        0,
+        122,
+        222
+      ],
+      "tput": 33,
+      "basic": "indigo",
+      "html": "dodgerblue",
+      "ntc": "Mariner",
+      "pantone": "Navy Blue",
+      "x11": "dodgerblue"
+    },
+    {
+      "hex": "#0052af",
+      "rgb": [
+        0,
+        82,
+        175
+      ],
+      "tput": 26,
+      "basic": "indigo",
+      "html": "darkslateblue",
+      "ntc": "Tory Blue",
+      "pantone": "Denim",
+      "x11": "darkslateblue"
+    },
+    {
+      "hex": "#003377",
+      "rgb": [
+        0,
+        51,
+        119
+      ],
+      "tput": 18,
+      "basic": "indigo",
+      "html": "darkslateblue",
+      "ntc": "Bay of Many",
+      "pantone": "Midnight Blue",
+      "x11": "darkslateblue"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

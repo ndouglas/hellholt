@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="660">
+<defs>
+  <radialGradient id="rg" gradientUnits="userSpaceOnUse" cx="220" cy="220" r="405">
+    <stop style="stop-color:#fff;stop-opacity:.3" offset="0"/>
+    <stop style="stop-color:#fff;stop-opacity:.2" offset=".2"/>
+    <stop style="stop-color:#666;stop-opacity:.1" offset=".6"/>
+    <stop style="stop-color:#000;stop-opacity:.13" offset="1"/>
+  </radialGradient>
+  <radialGradient id="grad3" cx="33%" cy="33%" r="100%">
+    <stop offset="0%" style="stop-color:#000;" />
+    <stop offset="50%" style="stop-color:#000;" />
+    <stop offset="50%" style="stop-color:#111;" />
+    <stop offset="100%" style="stop-color:#111;" />
+  </radialGradient>
+  <clipPath id="clip-shield">
+    <path id="shield" d="m2,2v257c0,286 298,398 298,398c0,0 298-112 298-398V2z"/>
+  </clipPath>
+  <circle id="stud" fill="url(#grad3)" cx="300" cy="120" r="20"/>
+</defs>
+<use id="background" xlink:href="#shield" fill="#cd7f32"/>
+<g id="studs">
+  <use xlink:href="#stud" transform="translate(-180,0)"/>
+  <use xlink:href="#stud" transform="translate(-90,0)"/>
+  <use xlink:href="#stud" transform="translate(0,0)"/>
+  <use xlink:href="#stud" transform="translate(90,0)"/>
+  <use xlink:href="#stud" transform="translate(180,0)"/>
+  
+  <use xlink:href="#stud" transform="translate(-180,90)"/>
+  <use xlink:href="#stud" transform="translate(-90,90)"/>
+  <use xlink:href="#stud" transform="translate(0,90)"/>
+  <use xlink:href="#stud" transform="translate(90,90)"/>
+  <use xlink:href="#stud" transform="translate(180,90)"/>
+  
+  <use xlink:href="#stud" transform="translate(-178,172)"/>
+  <use xlink:href="#stud" transform="translate(-86,172)"/>
+  <use xlink:href="#stud" transform="translate(0,180)"/>
+  <use xlink:href="#stud" transform="translate(86,172)"/>
+  <use xlink:href="#stud" transform="translate(178,172)"/>
+  
+  <use xlink:href="#stud" transform="translate(-158,247)"/>
+  <use xlink:href="#stud" transform="translate(-58,246)"/>
+  <use xlink:href="#stud" transform="translate(58,246)"/>
+  <use xlink:href="#stud" transform="translate(158,247)"/>
+  
+  <use xlink:href="#stud" transform="translate(-116,312)"/>
+  <use xlink:href="#stud" transform="translate(0,300)"/>
+  <use xlink:href="#stud" transform="translate(116,312)"/>
+  
+  <use xlink:href="#stud" transform="translate(-60,367)"/>
+  <use xlink:href="#stud" transform="translate(60,367)"/>
+  
+  <use xlink:href="#stud" transform="translate(0,407)"/>
+</g>
+<g id="runes" fill="none" stroke="#000" stroke-width="5">
+  <path d="M37.5,75 v-50 l25,12.5 l-15,12.5 15,25"/>
+  <path d="M162.5,75 l25,-25 -12.5,-25 -12.5 25 25,25"/>
+  <path d="M300,25 v50 m-12.5,0 a12.5,12.5 0,0,1 25,0"/>
+  <path d="M412.5,25 v31.25 l25,-12.5 v31.25"/>
+  <path d="M537.5,75 v-50 l12.5,12.5 12.5,-12.5 v50"/>
+  
+  <path d="M37.5,238 v-50 l12.5,12.5 12.5,-12.5 v50"/>
+  <path d="M70,352v50 m-12.5,-50 a12.5,12.5 0,0,0 25,0"/>
+  <path d="M160,550 v-50 l12.5,12.5 12.5,-12.5 v50"/>
+  <path d="M300,578v50 m-12.5,-50 a12.5,12.5 0,0,0 25,0"/>
+  <path d="M415,550 v-50 l25,12.5 l-18,12.5 18,12.5z"/>
+  <path d="M517.5,402 v-50 l12.5,12.5 12.5,-12.5 v50"/>
+  <path d="M537.5,238 v-50 l25,12.5 l-15,12.5 15,25"/>
+</g>
+<use id="shine" xlink:href="#shield" fill="url(#rg)" stroke="#000" stroke-width="3"/>
+</svg>

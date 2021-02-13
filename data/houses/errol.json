@@ -1,0 +1,44 @@
+{
+  "id": "errol",
+  "name": "Errol",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/errol.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Eagle of Seagard",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:Errol.png",
+      "original_object": {
+        "timestamp": "2014-02-27T23:47:27Z",
+        "user": "Eagle of Seagard",
+        "size": 64046,
+        "width": 571,
+        "height": 629,
+        "url": "https://awoiaf.westeros.org/images/8/88/Errol.png",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:Errol.png",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=5868",
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          }
+        ],
+        "exif": {
+          "frameCount": 0,
+          "loopCount": 1,
+          "duration": 0
+        }
+      }
+    }
+  ],
+  "region": "stormlands"
+}

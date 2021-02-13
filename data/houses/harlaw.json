@@ -1,0 +1,145 @@
+{
+  "id": "harlaw",
+  "name": "Harlaw",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/harlaw.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Harlaw_(Tower_of_Glimmering).svg",
+      "original_object": {
+        "timestamp": "2016-07-18T19:41:03Z",
+        "user": "Abjiklam",
+        "size": 5654,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/d/da/House_Harlaw_%28Tower_of_Glimmering%29.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Harlaw_(Tower_of_Glimmering).svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22782",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "iron islands",
+  "colors": [
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#eeeeee",
+      "rgb": [
+        238,
+        238,
+        238
+      ],
+      "tput": 234,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Gallery",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#aaaaaa",
+      "rgb": [
+        170,
+        170,
+        170
+      ],
+      "tput": 161,
+      "basic": "gray",
+      "html": "darkgray",
+      "ntc": "Silver Chalice",
+      "pantone": "Cadet Blue",
+      "x11": "darkgrey"
+    },
+    {
+      "hex": "#222222",
+      "rgb": [
+        34,
+        34,
+        34
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Shark",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

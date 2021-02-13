@@ -1,0 +1,69 @@
+{
+  "id": "teague",
+  "name": "Teague",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/teague.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Lord Evermore",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Teague.svg",
+      "original_object": {
+        "timestamp": "2016-07-20T07:26:00Z",
+        "user": "Lord Evermore",
+        "size": 22565,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/b/b0/House_Teague.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Teague.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22778",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>"
+          },
+          {
+            "name": "description",
+            "value": "Flag of Canton of Valais (Wallis)"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>",
+          "description": "Flag of Canton of Valais (Wallis)",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "riverlands"
+}

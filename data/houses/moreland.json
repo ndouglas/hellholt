@@ -1,0 +1,59 @@
+{
+  "id": "moreland",
+  "name": "Moreland",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/moreland.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Moreland.svg",
+      "original_object": {
+        "timestamp": "2018-11-14T22:40:47Z",
+        "user": "Abjiklam",
+        "size": 1046,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/6/64/House_Moreland.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Moreland.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22468",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "westerlands"
+}

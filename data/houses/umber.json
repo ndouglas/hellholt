@@ -1,0 +1,44 @@
+{
+  "id": "umber",
+  "name": "Umber",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/umber.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Eagle of Seagard",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:Umbercrest.png",
+      "original_object": {
+        "timestamp": "2014-04-01T23:01:52Z",
+        "user": "Eagle of Seagard",
+        "size": 222599,
+        "width": 571,
+        "height": 629,
+        "url": "https://awoiaf.westeros.org/images/f/f2/Umbercrest.png",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:Umbercrest.png",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=11929",
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          }
+        ],
+        "exif": {
+          "frameCount": 0,
+          "loopCount": 1,
+          "duration": 0
+        }
+      }
+    }
+  ],
+  "region": ""
+}

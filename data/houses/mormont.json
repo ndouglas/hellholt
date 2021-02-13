@@ -1,0 +1,318 @@
+{
+  "id": "mormont",
+  "name": "Mormont",
+  "emoji": "",
+  "words": "Here We Stand",
+  "arms": [
+    {
+      "path": "/images/houses/mormont.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Lord Evermore",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Mormont.svg",
+      "original_object": {
+        "timestamp": "2016-07-27T01:59:35Z",
+        "user": "Lord Evermore",
+        "size": 142465,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/4/46/House_Mormont.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Mormont.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22988",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "north",
+  "colors": [
+    {
+      "hex": "#ffff00",
+      "rgb": [
+        255,
+        255,
+        0
+      ],
+      "tput": 247,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Yellow",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#90ee90",
+      "rgb": [
+        144,
+        238,
+        144
+      ],
+      "tput": 147,
+      "basic": "turquoise",
+      "html": "lightgreen",
+      "ntc": "Mint Green",
+      "pantone": "Granny Smith Apple",
+      "x11": "lightgreen"
+    },
+    {
+      "hex": "#008800",
+      "rgb": [
+        0,
+        136,
+        0
+      ],
+      "tput": 31,
+      "basic": "green",
+      "html": "green",
+      "ntc": "Forest Green",
+      "pantone": "Fern",
+      "x11": "green"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#1a1a1a",
+      "rgb": [
+        26,
+        26,
+        26
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Woodsmoke",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#333333",
+      "rgb": [
+        51,
+        51,
+        51
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkslategray",
+      "ntc": "Mine Shaft",
+      "pantone": "Black",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#5a3720",
+      "rgb": [
+        90,
+        55,
+        32
+      ],
+      "tput": 65,
+      "basic": "black",
+      "html": "saddlebrown",
+      "ntc": "Irish Coffee",
+      "pantone": "Sepia",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#ececec",
+      "rgb": [
+        236,
+        236,
+        236
+      ],
+      "tput": 232,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Gallery",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#7b6231",
+      "rgb": [
+        123,
+        98,
+        49
+      ],
+      "tput": 104,
+      "basic": "tan",
+      "html": "darkolivegreen",
+      "ntc": "Yellow Metal",
+      "pantone": "Shadow",
+      "x11": "darkolivegreen"
+    },
+    {
+      "hex": "#261f1f",
+      "rgb": [
+        38,
+        31,
+        31
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Cocoa Brown",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#7f7f7f",
+      "rgb": [
+        127,
+        127,
+        127
+      ],
+      "tput": 114,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Gray",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#9c947a",
+      "rgb": [
+        156,
+        148,
+        122
+      ],
+      "tput": 144,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Gurkha",
+      "pantone": "Shadow",
+      "x11": "gray"
+    },
+    {
+      "hex": "#4d4d4d",
+      "rgb": [
+        77,
+        77,
+        77
+      ],
+      "tput": 61,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Fuscous Gray",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#383838",
+      "rgb": [
+        56,
+        56,
+        56
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkslategray",
+      "ntc": "Tuatara",
+      "pantone": "Outer Space",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#ddaa00",
+      "rgb": [
+        221,
+        170,
+        0
+      ],
+      "tput": 203,
+      "basic": "orange",
+      "html": "goldenrod",
+      "ntc": "Galliano",
+      "pantone": "Sunglow",
+      "x11": "goldenrod"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    }
+  ]
+}

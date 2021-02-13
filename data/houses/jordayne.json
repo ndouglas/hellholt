@@ -1,0 +1,59 @@
+{
+  "id": "jordayne",
+  "name": "Jordayne",
+  "emoji": "",
+  "words": "Let it be Written",
+  "arms": [
+    {
+      "path": "/images/houses/jordayne.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Jordayne.svg",
+      "original_object": {
+        "timestamp": "2018-10-23T17:56:21Z",
+        "user": "Abjiklam",
+        "size": 6727,
+        "width": 600,
+        "height": 600,
+        "url": "https://awoiaf.westeros.org/images/6/68/House_Jordayne.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Jordayne.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22628",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 600
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "600"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 600,
+          "originalWidth": "600",
+          "originalHeight": "600",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "dorne"
+}

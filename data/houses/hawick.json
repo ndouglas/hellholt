@@ -1,0 +1,44 @@
+{
+  "id": "hawick",
+  "name": "Hawick",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/hawick.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Eagle of Seagard",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:Hawick.png",
+      "original_object": {
+        "timestamp": "2014-02-27T21:14:18Z",
+        "user": "Eagle of Seagard",
+        "size": 157512,
+        "width": 571,
+        "height": 629,
+        "url": "https://awoiaf.westeros.org/images/0/09/Hawick.png",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:Hawick.png",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=7997",
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          }
+        ],
+        "exif": {
+          "frameCount": 0,
+          "loopCount": 1,
+          "duration": 0
+        }
+      }
+    }
+  ],
+  "region": "riverlands"
+}

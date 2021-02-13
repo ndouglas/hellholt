@@ -1,0 +1,164 @@
+{
+  "id": "terrick",
+  "name": "Terrick",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/terrick.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Lord Evermore",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Terrick.svg",
+      "original_object": {
+        "timestamp": "2016-07-25T00:53:55Z",
+        "user": "Lord Evermore",
+        "size": 44466,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/b/b7/House_Terrick.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Terrick.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22929",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "riverlands",
+  "colors": [
+    {
+      "hex": "#aa00aa",
+      "rgb": [
+        170,
+        0,
+        170
+      ],
+      "tput": 140,
+      "basic": "purple",
+      "html": "darkmagenta",
+      "ntc": "Violet Eggplant",
+      "pantone": "Razzle Dazzle Rose",
+      "x11": "darkmagenta"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#e6e6e6",
+      "rgb": [
+        230,
+        230,
+        230
+      ],
+      "tput": 225,
+      "basic": "white",
+      "html": "gainsboro",
+      "ntc": "Mercury",
+      "pantone": "White",
+      "x11": "gainsboro"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#ddaa00",
+      "rgb": [
+        221,
+        170,
+        0
+      ],
+      "tput": 203,
+      "basic": "orange",
+      "html": "goldenrod",
+      "ntc": "Galliano",
+      "pantone": "Sunglow",
+      "x11": "goldenrod"
+    }
+  ]
+}

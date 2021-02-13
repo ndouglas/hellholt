@@ -1,0 +1,44 @@
+{
+  "id": "falwell",
+  "name": "Falwell",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/falwell.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Eagle of Seagard",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:Falwell.png",
+      "original_object": {
+        "timestamp": "2014-02-28T02:01:09Z",
+        "user": "Eagle of Seagard",
+        "size": 101704,
+        "width": 571,
+        "height": 629,
+        "url": "https://awoiaf.westeros.org/images/f/fe/Falwell.png",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:Falwell.png",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=8608",
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          }
+        ],
+        "exif": {
+          "frameCount": 0,
+          "loopCount": 1,
+          "duration": 0
+        }
+      }
+    }
+  ],
+  "region": "westerlands"
+}

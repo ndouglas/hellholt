@@ -1,0 +1,44 @@
+{
+  "id": "borrell",
+  "name": "Borrell",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/borrell.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Eagle of Seagard",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:Borell.png",
+      "original_object": {
+        "timestamp": "2014-05-15T07:27:43Z",
+        "user": "Eagle of Seagard",
+        "size": 102371,
+        "width": 571,
+        "height": 629,
+        "url": "https://awoiaf.westeros.org/images/3/39/Borell.png",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:Borell.png",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=8613",
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          }
+        ],
+        "exif": {
+          "frameCount": 0,
+          "loopCount": 1,
+          "duration": 0
+        }
+      }
+    }
+  ],
+  "region": "three sisters]], [[vale of arryn"
+}

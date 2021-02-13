@@ -1,0 +1,187 @@
+{
+  "id": "vance",
+  "name": "Vance",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/vance.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Vance_(Atranta).svg",
+      "original_object": {
+        "timestamp": "2019-03-09T16:13:08Z",
+        "user": "Abjiklam",
+        "size": 18949,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/1/10/House_Vance_%28Atranta%29.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Vance_(Atranta).svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22956",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "riverlands",
+  "colors": [
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#444444",
+      "rgb": [
+        68,
+        68,
+        68
+      ],
+      "tput": 16,
+      "basic": "gray",
+      "html": "darkslategray",
+      "ntc": "Cape Cod",
+      "pantone": "Outer Space",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#003300",
+      "rgb": [
+        0,
+        51,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkolivegreen",
+      "ntc": "Deep Fir",
+      "pantone": "Black",
+      "x11": "darkolivegreen"
+    },
+    {
+      "hex": "#00aa00",
+      "rgb": [
+        0,
+        170,
+        0
+      ],
+      "tput": 36,
+      "basic": "green",
+      "html": "limegreen",
+      "ntc": "Malachite",
+      "pantone": "Screamin Green",
+      "x11": "limegreen"
+    },
+    {
+      "hex": "#008000",
+      "rgb": [
+        0,
+        128,
+        0
+      ],
+      "tput": 29,
+      "basic": "green",
+      "html": "green",
+      "ntc": "Forest Green",
+      "pantone": "Fern",
+      "x11": "green"
+    },
+    {
+      "hex": "#002200",
+      "rgb": [
+        0,
+        34,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "English Holly",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#777777",
+      "rgb": [
+        119,
+        119,
+        119
+      ],
+      "tput": 106,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Boulder",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

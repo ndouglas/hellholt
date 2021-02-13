@@ -1,0 +1,44 @@
+{
+  "id": "wyl",
+  "name": "Wyl",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/wyl.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Eagle of Seagard",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:WylCoA.png",
+      "original_object": {
+        "timestamp": "2013-10-21T03:13:52Z",
+        "user": "Eagle of Seagard",
+        "size": 92197,
+        "width": 569,
+        "height": 571,
+        "url": "https://awoiaf.westeros.org/images/1/1f/WylCoA.png",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:WylCoA.png",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=15439",
+        "metadata": [
+          {
+            "name": "frameCount",
+            "value": 0
+          },
+          {
+            "name": "loopCount",
+            "value": 1
+          },
+          {
+            "name": "duration",
+            "value": 0
+          }
+        ],
+        "exif": {
+          "frameCount": 0,
+          "loopCount": 1,
+          "duration": 0
+        }
+      }
+    }
+  ],
+  "region": "dorne"
+}

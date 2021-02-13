@@ -1,0 +1,173 @@
+{
+  "id": "lynderly",
+  "name": "Lynderly",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/lynderly.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Lynderly.svg",
+      "original_object": {
+        "timestamp": "2021-02-02T18:21:34Z",
+        "user": "Abjiklam",
+        "size": 25250,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/9/97/House_Lynderly.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Lynderly.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=23044",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "the vale",
+  "colors": [
+    {
+      "hex": "#24b856",
+      "rgb": [
+        36,
+        184,
+        86
+      ],
+      "tput": 39,
+      "basic": "green",
+      "html": "mediumseagreen",
+      "ntc": "Emerald",
+      "pantone": "Fern",
+      "x11": "mediumseagreen"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#ff0000",
+      "rgb": [
+        255,
+        0,
+        0
+      ],
+      "tput": 214,
+      "basic": "red",
+      "html": "red",
+      "ntc": "Red",
+      "pantone": "Scarlet",
+      "x11": "red"
+    },
+    {
+      "hex": "#003000",
+      "rgb": [
+        0,
+        48,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkolivegreen",
+      "ntc": "Deep Fir",
+      "pantone": "Black",
+      "x11": "darkolivegreen"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#444444",
+      "rgb": [
+        68,
+        68,
+        68
+      ],
+      "tput": 16,
+      "basic": "gray",
+      "html": "darkslategray",
+      "ntc": "Cape Cod",
+      "pantone": "Outer Space",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#990000",
+      "rgb": [
+        153,
+        0,
+        0
+      ],
+      "tput": 122,
+      "basic": "brown",
+      "html": "darkred",
+      "ntc": "Red Berry",
+      "pantone": "Mahogany",
+      "x11": "darkred"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

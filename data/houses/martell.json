@@ -1,0 +1,59 @@
+{
+  "id": "martell",
+  "name": "Martell",
+  "emoji": "",
+  "words": "Unbowed, Unbent, Unbroken",
+  "arms": [
+    {
+      "path": "/images/houses/martell.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Martell.svg",
+      "original_object": {
+        "timestamp": "2019-03-01T12:06:35Z",
+        "user": "Abjiklam",
+        "size": 3877,
+        "width": 600,
+        "height": 600,
+        "url": "https://awoiaf.westeros.org/images/6/60/House_Martell.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Martell.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22626",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 600
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "600"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 600,
+          "originalWidth": "600",
+          "originalHeight": "600",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "dorne"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "knott",
+  "name": "Knott",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/knott.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Knott.svg",
+      "original_object": {
+        "timestamp": "2016-07-17T21:08:31Z",
+        "user": "Abjiklam",
+        "size": 1809,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/4/4a/House_Knott.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Knott.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22523",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": ""
+}

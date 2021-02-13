@@ -1,0 +1,59 @@
+{
+  "id": "prester",
+  "name": "Prester",
+  "emoji": "",
+  "words": "Tireless",
+  "arms": [
+    {
+      "path": "/images/houses/prester.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Prester.svg",
+      "original_object": {
+        "timestamp": "2019-03-12T15:22:55Z",
+        "user": "Abjiklam",
+        "size": 8773,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/9/9d/House_Prester.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Prester.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22809",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "westerlands"
+}

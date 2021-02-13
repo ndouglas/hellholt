@@ -1,0 +1,59 @@
+{
+  "id": "celtigar",
+  "name": "Celtigar",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/celtigar.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Celtigar.svg",
+      "original_object": {
+        "timestamp": "2019-12-19T01:04:13Z",
+        "user": "Abjiklam",
+        "size": 9869,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/2/23/House_Celtigar.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Celtigar.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22953",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "blackwater bay]], the [[crownlands"
+}

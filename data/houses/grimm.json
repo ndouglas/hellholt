@@ -1,0 +1,192 @@
+{
+  "id": "grimm",
+  "name": "Grimm",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/grimm.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Lord Evermore",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Grimm.svg",
+      "original_object": {
+        "timestamp": "2016-07-21T07:08:15Z",
+        "user": "Lord Evermore",
+        "size": 254292,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/5/5c/House_Grimm.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Grimm.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22851",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "the reach]], the [[shield islands",
+  "colors": [
+    {
+      "hex": "#668866",
+      "rgb": [
+        102,
+        136,
+        102
+      ],
+      "tput": 93,
+      "basic": "gray",
+      "html": "darkolivegreen",
+      "ntc": "Glade Green",
+      "pantone": "Forest Green",
+      "x11": "darkolivegreen"
+    },
+    {
+      "hex": "#fcef3c",
+      "rgb": [
+        252,
+        239,
+        60
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "Gorse",
+      "pantone": "Laser Lemon",
+      "x11": "gold"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#994400",
+      "rgb": [
+        153,
+        68,
+        0
+      ],
+      "tput": 122,
+      "basic": "brown",
+      "html": "saddlebrown",
+      "ntc": "Oregon",
+      "pantone": "Brown",
+      "x11": "saddlebrown"
+    },
+    {
+      "hex": "#cc0000",
+      "rgb": [
+        204,
+        0,
+        0
+      ],
+      "tput": 168,
+      "basic": "red",
+      "html": "orangered",
+      "ntc": "Guardsman Red",
+      "pantone": "Red Orange",
+      "x11": "orangered"
+    },
+    {
+      "hex": "#888888",
+      "rgb": [
+        136,
+        136,
+        136
+      ],
+      "tput": 124,
+      "basic": "gray",
+      "html": "gray",
+      "ntc": "Gunsmoke",
+      "pantone": "Gray",
+      "x11": "gray"
+    },
+    {
+      "hex": "#dddddd",
+      "rgb": [
+        221,
+        221,
+        221
+      ],
+      "tput": 215,
+      "basic": "white",
+      "html": "gainsboro",
+      "ntc": "Alto",
+      "pantone": "Timberwolf",
+      "x11": "gainsboro"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

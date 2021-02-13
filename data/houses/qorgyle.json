@@ -1,0 +1,59 @@
+{
+  "id": "qorgyle",
+  "name": "Qorgyle",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/qorgyle.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Qorgyle.svg",
+      "original_object": {
+        "timestamp": "2016-07-17T23:41:43Z",
+        "user": "Abjiklam",
+        "size": 29862,
+        "width": 600,
+        "height": 600,
+        "url": "https://awoiaf.westeros.org/images/c/c5/House_Qorgyle.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Qorgyle.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22629",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 600
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "600"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 600,
+          "originalWidth": "600",
+          "originalHeight": "600",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "dorne"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "blackfyre",
+  "name": "Blackfyre",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/blackfyre.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Blackfyre.svg",
+      "original_object": {
+        "timestamp": "2020-09-26T23:33:45Z",
+        "user": "Abjiklam",
+        "size": 118457,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/1/10/House_Blackfyre.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Blackfyre.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22553",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "title",
+            "value": "House Blackfyre"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title>House Blackfyre</dc:title>\n        <dc:date>27 September 2020</dc:date>\n        <dc:creator>\n          <cc:Agent>\n            <dc:title>Abjiklam (abjiklam@gmail.com)</dc:title>\n          </cc:Agent>\n        </dc:creator>\n        <dc:description>\n          The sigil of House Blackfyre.\n          A three-headed dragon breathing flame, black on red.\n        </dc:description>\n        <cc:license rdf:resource=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"/>\n      </cc:Work>\n      <cc:License rdf:about=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">\n        <cc:permits rdf:resource=\"http://creativecommons.org/ns#Reproduction\"/>\n        <cc:permits rdf:resource=\"http://creativecommons.org/ns#Distribution\"/>\n        <cc:requires rdf:resource=\"http://creativecommons.org/ns#Notice\"/>\n        <cc:requires rdf:resource=\"http://creativecommons.org/ns#Attribution\"/>\n        <cc:prohibits rdf:resource=\"http://creativecommons.org/ns#CommercialUse\"/>\n        <cc:permits rdf:resource=\"http://creativecommons.org/ns#DerivativeWorks\"/>\n        <cc:requires rdf:resource=\"http://creativecommons.org/ns#ShareAlike\"/>\n      </cc:License>\n    </rdf:RDF>"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "title": "House Blackfyre",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title>House Blackfyre</dc:title>\n        <dc:date>27 September 2020</dc:date>\n        <dc:creator>\n          <cc:Agent>\n            <dc:title>Abjiklam (abjiklam@gmail.com)</dc:title>\n          </cc:Agent>\n        </dc:creator>\n        <dc:description>\n          The sigil of House Blackfyre.\n          A three-headed dragon breathing flame, black on red.\n        </dc:description>\n        <cc:license rdf:resource=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"/>\n      </cc:Work>\n      <cc:License rdf:about=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">\n        <cc:permits rdf:resource=\"http://creativecommons.org/ns#Reproduction\"/>\n        <cc:permits rdf:resource=\"http://creativecommons.org/ns#Distribution\"/>\n        <cc:requires rdf:resource=\"http://creativecommons.org/ns#Notice\"/>\n        <cc:requires rdf:resource=\"http://creativecommons.org/ns#Attribution\"/>\n        <cc:prohibits rdf:resource=\"http://creativecommons.org/ns#CommercialUse\"/>\n        <cc:permits rdf:resource=\"http://creativecommons.org/ns#DerivativeWorks\"/>\n        <cc:requires rdf:resource=\"http://creativecommons.org/ns#ShareAlike\"/>\n      </cc:License>\n    </rdf:RDF>",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "crownlands"
+}

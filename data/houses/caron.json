@@ -1,0 +1,145 @@
+{
+  "id": "caron",
+  "name": "Caron",
+  "emoji": "",
+  "words": "No Song so Sweet",
+  "arms": [
+    {
+      "path": "/images/houses/caron.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Caron.svg",
+      "original_object": {
+        "timestamp": "2016-07-15T02:02:27Z",
+        "user": "Abjiklam",
+        "size": 10082,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/6/6d/House_Caron.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Caron.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22726",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "dornish marches]], in the [[stormlands",
+  "colors": [
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#444444",
+      "rgb": [
+        68,
+        68,
+        68
+      ],
+      "tput": 16,
+      "basic": "gray",
+      "html": "darkslategray",
+      "ntc": "Cape Cod",
+      "pantone": "Outer Space",
+      "x11": "darkslategrey"
+    },
+    {
+      "hex": "#cccccc",
+      "rgb": [
+        204,
+        204,
+        204
+      ],
+      "tput": 197,
+      "basic": "white",
+      "html": "lightgray",
+      "ntc": "Cloud",
+      "pantone": "Silver",
+      "x11": "lightgrey"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#ffff00",
+      "rgb": [
+        255,
+        255,
+        0
+      ],
+      "tput": 247,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Yellow",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    }
+  ]
+}

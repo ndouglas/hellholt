@@ -1,0 +1,59 @@
+{
+  "id": "harte",
+  "name": "Harte",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/harte.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Harte.svg",
+      "original_object": {
+        "timestamp": "2018-07-10T17:43:37Z",
+        "user": "Abjiklam",
+        "size": 8864,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/f/fe/House_Harte.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Harte.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22786",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "crownlands"
+}

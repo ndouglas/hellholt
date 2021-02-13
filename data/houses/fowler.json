@@ -1,0 +1,206 @@
+{
+  "id": "fowler",
+  "name": "Fowler",
+  "emoji": "",
+  "words": "Let Me Soar",
+  "arms": [
+    {
+      "path": "/images/houses/fowler.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Xeno of Carcosa",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Fowler.svg",
+      "original_object": {
+        "timestamp": "2019-06-11T15:46:00Z",
+        "user": "Xeno of Carcosa",
+        "size": 104887,
+        "width": 600,
+        "height": 600,
+        "url": "https://awoiaf.westeros.org/images/e/e8/House_Fowler.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Fowler.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=23016",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 600
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "600"
+          },
+          {
+            "name": "metadata",
+            "value": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 600,
+          "originalWidth": "600",
+          "originalHeight": "600",
+          "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "dorne",
+  "colors": [
+    {
+      "hex": "#ff8800",
+      "rgb": [
+        255,
+        136,
+        0
+      ],
+      "tput": 229,
+      "basic": "orange",
+      "html": "darkorange",
+      "ntc": "Pizazz",
+      "pantone": "Neon Carrot",
+      "x11": "darkorange"
+    },
+    {
+      "hex": "#dddddd",
+      "rgb": [
+        221,
+        221,
+        221
+      ],
+      "tput": 215,
+      "basic": "white",
+      "html": "gainsboro",
+      "ntc": "Alto",
+      "pantone": "Timberwolf",
+      "x11": "gainsboro"
+    },
+    {
+      "hex": "#0000cc",
+      "rgb": [
+        0,
+        0,
+        204
+      ],
+      "tput": 20,
+      "basic": "blue",
+      "html": "mediumblue",
+      "ntc": "Dark Blue",
+      "pantone": "Purple Heart",
+      "x11": "mediumblue"
+    },
+    {
+      "hex": "#000088",
+      "rgb": [
+        0,
+        0,
+        136
+      ],
+      "tput": 18,
+      "basic": "indigo",
+      "html": "darkblue",
+      "ntc": "Ultramarine",
+      "pantone": "Purple Heart",
+      "x11": "darkblue"
+    },
+    {
+      "hex": "#ececec",
+      "rgb": [
+        236,
+        236,
+        236
+      ],
+      "tput": 232,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Gallery",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#f9f9f9",
+      "rgb": [
+        249,
+        249,
+        249
+      ],
+      "tput": 246,
+      "basic": "white",
+      "html": "whitesmoke",
+      "ntc": "Alabaster",
+      "pantone": "White",
+      "x11": "whitesmoke"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    },
+    {
+      "hex": "#222222",
+      "rgb": [
+        34,
+        34,
+        34
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Shark",
+      "pantone": "Black",
+      "x11": "black"
+    }
+  ]
+}

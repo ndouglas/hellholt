@@ -1,0 +1,59 @@
+{
+  "id": "bolling",
+  "name": "Bolling",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/bolling.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Bolling.svg",
+      "original_object": {
+        "timestamp": "2018-06-01T13:34:05Z",
+        "user": "Abjiklam",
+        "size": 12937,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/b/b5/House_Bolling.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Bolling.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22540",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "stormlands"
+}

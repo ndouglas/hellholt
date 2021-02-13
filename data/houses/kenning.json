@@ -1,0 +1,117 @@
+{
+  "id": "kenning",
+  "name": "Kenning",
+  "emoji": "",
+  "words": "",
+  "arms": [
+    {
+      "path": "/images/houses/kenning.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Kenning_(Kayce).svg",
+      "original_object": {
+        "timestamp": "2016-07-17T21:07:32Z",
+        "user": "Abjiklam",
+        "size": 4914,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/d/dd/House_Kenning_%28Kayce%29.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Kenning_(Kayce).svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22542",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "westerlands",
+  "colors": [
+    {
+      "hex": "#ff8800",
+      "rgb": [
+        255,
+        136,
+        0
+      ],
+      "tput": 229,
+      "basic": "orange",
+      "html": "darkorange",
+      "ntc": "Pizazz",
+      "pantone": "Neon Carrot",
+      "x11": "darkorange"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

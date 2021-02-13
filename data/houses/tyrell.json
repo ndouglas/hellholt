@@ -1,0 +1,201 @@
+{
+  "id": "tyrell",
+  "name": "Tyrell",
+  "emoji": "",
+  "words": "Growing Strong",
+  "arms": [
+    {
+      "path": "/images/houses/tyrell.svg",
+      "creator": "https://awoiaf.westeros.org/index.php/User:Abjiklam",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "original_url": "https://awoiaf.westeros.org/index.php/File:House_Tyrell.svg",
+      "original_object": {
+        "timestamp": "2018-10-02T02:47:00Z",
+        "user": "Abjiklam",
+        "size": 2992,
+        "width": 600,
+        "height": 660,
+        "url": "https://awoiaf.westeros.org/images/3/31/House_Tyrell.svg",
+        "descriptionurl": "https://awoiaf.westeros.org/index.php/File:House_Tyrell.svg",
+        "descriptionshorturl": "https://awoiaf.westeros.org/index.php?curid=22728",
+        "metadata": [
+          {
+            "name": "version",
+            "value": 2
+          },
+          {
+            "name": "width",
+            "value": 600
+          },
+          {
+            "name": "height",
+            "value": 660
+          },
+          {
+            "name": "originalWidth",
+            "value": "600"
+          },
+          {
+            "name": "originalHeight",
+            "value": "660"
+          },
+          {
+            "name": "translations",
+            "value": []
+          }
+        ],
+        "exif": {
+          "version": 2,
+          "width": 600,
+          "height": 660,
+          "originalWidth": "600",
+          "originalHeight": "660",
+          "translations": []
+        }
+      }
+    }
+  ],
+  "region": "",
+  "colors": [
+    {
+      "hex": "#008800",
+      "rgb": [
+        0,
+        136,
+        0
+      ],
+      "tput": 31,
+      "basic": "green",
+      "html": "green",
+      "ntc": "Forest Green",
+      "pantone": "Fern",
+      "x11": "green"
+    },
+    {
+      "hex": "#007700",
+      "rgb": [
+        0,
+        119,
+        0
+      ],
+      "tput": 28,
+      "basic": "green",
+      "html": "green",
+      "ntc": "Forest Green",
+      "pantone": "Fern",
+      "x11": "green"
+    },
+    {
+      "hex": "#333300",
+      "rgb": [
+        51,
+        51,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "darkolivegreen",
+      "ntc": "Waiouru",
+      "pantone": "Black",
+      "x11": "darkolivegreen"
+    },
+    {
+      "hex": "#aa5500",
+      "rgb": [
+        170,
+        85,
+        0
+      ],
+      "tput": 145,
+      "basic": "brown",
+      "html": "chocolate",
+      "ntc": "Rich Gold",
+      "pantone": "Mango Tango",
+      "x11": "chocolate"
+    },
+    {
+      "hex": "#ffdd00",
+      "rgb": [
+        255,
+        221,
+        0
+      ],
+      "tput": 241,
+      "basic": "gold",
+      "html": "gold",
+      "ntc": "School bus Yellow",
+      "pantone": "Sunglow",
+      "x11": "gold"
+    },
+    {
+      "hex": "#ffff55",
+      "rgb": [
+        255,
+        255,
+        85
+      ],
+      "tput": 248,
+      "basic": "yellow",
+      "html": "yellow",
+      "ntc": "Starship",
+      "pantone": "Laser Lemon",
+      "x11": "yellow"
+    },
+    {
+      "hex": "#ffff99",
+      "rgb": [
+        255,
+        255,
+        153
+      ],
+      "tput": 249,
+      "basic": "beige",
+      "html": "khaki",
+      "ntc": "Pale Canary",
+      "pantone": "Canary",
+      "x11": "khaki"
+    },
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "tput": 16,
+      "basic": "black",
+      "html": "black",
+      "ntc": "Black",
+      "pantone": "Black",
+      "x11": "black"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "tput": 252,
+      "basic": "white",
+      "html": "white",
+      "ntc": "White",
+      "pantone": "White",
+      "x11": "white"
+    },
+    {
+      "hex": "#666666",
+      "rgb": [
+        102,
+        102,
+        102
+      ],
+      "tput": 88,
+      "basic": "gray",
+      "html": "dimgray",
+      "ntc": "Storm Dust",
+      "pantone": "Outer Space",
+      "x11": "dimgray"
+    }
+  ]
+}

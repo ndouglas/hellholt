@@ -4,6 +4,7 @@ const util = require('@hellholt/util');
 const express = require('express');
 const bodyParser = require('body-parser');
 
+const awoiaf = require('./awoiaf');
 const routes = require('./routes').getRoutes();
 const schema = require('./schema');
 const storage = require('./storage');
@@ -12,6 +13,7 @@ const dependencies = {
   routes: routes,
   schema: schema,
   storage: storage,
+  awoiafClient: awoiaf.client,
 };
 
 exports.getApp = () => express()
